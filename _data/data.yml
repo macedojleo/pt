@@ -35,11 +35,11 @@ sidebar:
         level: B2
 
     interests:
-      - item: Amateur Photography
-        link:
-
-      - item: Travels
-        link:
+      - item: Data analysis, Natural Language Processing. My thesis (In progress) about these theme (In Portuguese):
+        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
+        
+      - item: Amateur Photography & Travels
+        link: https://www.instagram.com/leomacedobr/
 
 career-profile:
     title: Career Profile
