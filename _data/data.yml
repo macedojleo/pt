@@ -181,7 +181,7 @@ skills:
         level: 90%
         
       - name: Unix & Linux administration
-        level: 85%
+        level: 90%
       
       - name: Git & GitHub (version control and code hosting platform) 
         level: 80%
@@ -192,6 +192,9 @@ skills:
       - name: BMC Control-M (Job Scheduler)
         level: 70%
         
+      - name: Ansible (Automate Application Deployment + Continuous Delivery)
+        level: 70%
+          
       - name: Python & NLTK (Natural Language Processing)
         level: 65% 
 
