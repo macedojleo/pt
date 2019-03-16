@@ -35,13 +35,10 @@ sidebar:
         level: B2
 
     interests:
-      - item: Climbing
+      - item: Amateur Photography
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Travels
         link:
 
 career-profile:
@@ -56,9 +53,10 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Software Engineering (in progress)
+      university: Faculty of Engineering, University of Porto (FEUP)
+      Local: Porto - Portugal
+      time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +67,10 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: São Judas Tadeu Faculty
+      Local: São Paulo- Brazil
+      time: 2007 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -178,23 +177,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & NLTK (Natural Language Tool Kit)
+        level: 65%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Shell Script & AWK
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Docker and Docker compose
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Unix & Linux administration
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: BMC Control-M (Job Scheduler)
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
