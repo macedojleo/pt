@@ -186,7 +186,10 @@ skills:
       - name: Git & GitHub (version control and code hosting platform) 
         level: 80%
         
-      - name: Docker and Docker compose
+      - name: Oracle SQL 
+        level: 75%
+        
+      - name: Docker & Docker compose (container platform and multi-container) 
         level: 75%
 
       - name: BMC Control-M (Job Scheduler)
