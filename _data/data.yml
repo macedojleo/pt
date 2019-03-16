@@ -177,19 +177,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & NLTK (Natural Language Tool Kit)
-        level: 65%
-
       - name: Shell Script & AWK
         level: 90%
-
+        
+      - name: Unix & Linux administration
+        level: 85%
+      
+      - name: Git & GitHub (version control and code hosting platform) 
+        level: 80%
+        
       - name: Docker and Docker compose
         level: 75%
 
-      - name: Unix & Linux administration
-        level: 85%
-
       - name: BMC Control-M (Job Scheduler)
         level: 70%
+        
+      - name: Python & NLTK (Natural Language Processing)
+        level: 65% 
 
 footer: >
