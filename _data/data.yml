@@ -176,7 +176,7 @@ skills:
         level: 75%
         
       - name: Ericsson BSCS (Telco end-to-end billing system)
-        level 75%
+        level: 75%
         
       - name: Docker & Docker compose (container platform and multi-container) 
         level: 75%
