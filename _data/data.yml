@@ -151,12 +151,12 @@ projects:
         tagline: "Ansible CI Pipeline for Apache, Python, Nginx and mysql with containers (Docker and Compose)"
 
 publications:
-    title: Free courses
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-
+      
     papers:
       - title: [Python in te Context of Engineering](/assets/certificates/PYTHON_Leonardo\ Macedo_en.pdf)
         authors: NTITEC (FEUP)
