@@ -73,7 +73,7 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        BSCS Ver. IX Rating modules administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's Cooperation.
+        <b>BSCS Ver. IX Rating modules</b> administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's Cooperation.
         Proactive scheduling (automation) for critical tasks, monitoring performance and faults (troubleshooting) related to Rating chain and Bill checkout process.
         Product Catalogue, Catalogue Configuration and Rate Plans deploying. Risk analysis and technical validation for RFC (Request for Change) according to its impacts (ITIL).
         Effective Incident Management from whole life cicle tickets since start through resolution and partnering with DEV-team / configuration team to determine root causes, and driving rigorous Problem Management to follow through on actions.
@@ -89,14 +89,16 @@ experiences:
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        OPSC GOLD end-to-end 3rd level production support for Rating and customer care (notifications threshold) applications
+        <b>OPSC GOLD</b> end-to-end <b>3rd level production support</b> for Rating and customer care (charge notifications) applications
         Incident management (ticketing), Problem management and Change management according to ITIL framework
         Strong knowledge of both technical and business flows, as well a strong focus on customer experience, service quality, development, and support a collaborative relationship with the technical team and business team
         Automated critical tasks, monitoring performance and faults (troubleshooting)
 
-          - Assist with UAT process
+          - Automation job Development
           - Automated critical process
-          - Oracle SQL Customized report
+          - Oracle SQL extract customized report
+          - Strong Unix/Linux knowledge
+          - Assist with UAT process
 
     - role: Production Analyst
       time: 2008 - 2009
