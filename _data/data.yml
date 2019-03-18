@@ -73,11 +73,11 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        <b>BSCS Ver. IX Rating modules</b> administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's Cooperation.
-        Proactive scheduling (automation) for critical tasks, monitoring performance and faults (troubleshooting) related to Rating chain and Bill checkout process.
-        Product Catalogue, Catalogue Configuration and Rate Plans deploying. Risk analysis and technical validation for RFC (Request for Change) according to its impacts (ITIL).
-        Effective Incident Management from whole life cicle tickets since start through resolution and partnering with DEV-team / configuration team to determine root causes, and driving rigorous Problem Management to follow through on actions.
-        Traffic Metrics definition and data analysis by charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit..), locations...
+        <p><b>BSCS Ver. IX Rating modules</b> administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's Cooperation.
+        <p>Proactive scheduling (automation) for critical tasks, monitoring performance and faults (troubleshooting) related to Rating chain and Bill checkout process.</p>
+        <p>Product Catalogue, Catalogue Configuration and Rate Plans deploying. Risk analysis and technical validation for RFC (Request for Change) according to its impacts (ITIL).
+        Effective Incident Management from whole life cicle tickets since start through resolution and partnering with DEV-team / configuration team to determine root causes, and driving rigorous Problem Management to follow through on actions.</p>
+        <p>Traffic Metrics definition and data analysis by charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit..), locations...</p>
         
           - Automation job Development
           - Control-M Schedulher tool
