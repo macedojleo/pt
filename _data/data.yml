@@ -96,8 +96,8 @@ experiences:
         Incident management (ticketing), Problem management (troubleshooting) and Change management (RFC risk analysis and techinical validation) according to ITIL framework.</p>
         <p>Strong knowledge of both technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship with the technical team and business team.
         Automation critical tasks, monitoring performance and faults (troubleshooting)</p>
-
-
+        
+        
         <ul>
             <li>Quantitative and qualitative analytical skills</li>        
             <li>Automation job Development</li>
@@ -107,7 +107,7 @@ experiences:
             <li>Strong Unix/Linux knowledge</li>
             <li>Assist with UAT process</li>
         </ul>
-
+        
     - role: Production Analyst
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
@@ -118,7 +118,7 @@ experiences:
          <p>RFC Techinical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p> 
             
         <ul>
-            <li>ITIL</li>        
+            <li>ITIL</li>
             <li>Scripting</li>
             <li>Unix/Linux administration</li>
             <li>Assist with UAT process</li>
