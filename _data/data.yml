@@ -113,8 +113,8 @@ experiences:
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
         <p><b>2nd line support of Ericsson Mediation Platform System</b></p>
-        <p>Follow<p>FC Technical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p>ing <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a solution</b> or a contour solution (WA) to keep system uptime according to SLA. </p>
-        <p>Call data Records (CDR) processing validate (Collect, Filtering, Correlation, Aggregation, Normalization and delivery) acting close to Production Billing Team according to detect and fix any CDR problem quickly. </p>
+        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a solution</b> or a contour solution (WA) to keep system uptime according to SLA. </p>
+        <p>Call data Records (CDR) processing validate (Collect, Filtering, Correlation, Aggregation, Normalization and Delivery) acting close to Production Billing Team according to detect and fix any CDR problem quickly. </p>
         <p>RFC Technical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p>         
         
         <ul>
@@ -134,25 +134,17 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: BDH
+        link: "https://macedojleo.github.io/BDH/"
+        tagline: "Simple way to monitore Unix/Linux FS consumption and receive customized alarms with CLI + Slack + Webhook"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: CosnFlix
+        link: "#COSNFLIX"
+        tagline: "Video Streaming Service deployed in microservice architecture (Docker containers + Docker-compose) using JS Angular framework + Python + mysql"
 
       - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "#DOCKER_ANSIBLE"
+        tagline: "Ansible Pipeline CI for Apache2, Python, Nginx and mysql deployed in Containers (Docker and Compose)"
 
 publications:
     title: Publications
