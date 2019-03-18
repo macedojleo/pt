@@ -79,11 +79,13 @@ experiences:
         Effective Incident Management from whole life cicle tickets since start through resolution and partnering with DEV-team / configuration team to determine root causes, and driving rigorous Problem Management to follow through on actions.</p>
         <p>Traffic Metrics definition and data analysis by charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit..), locations...</p>
         
-          * Automation job Development
-          * Control-M Schedulher tool
-          * Oracle SQL - Data structured extraction and customized reports for business decision making
-          * Apllications log analysis
-          * Strong Unix/Linux knowledge
+        <ul>
+            <li>Automation job Development</li>
+            <li>Control-M Schedulher Tool</li>
+            <li>Oracle SQL - Data structured extraction and customized reports</li>
+            <li>Apllications log analysis</li>
+            <li>Strong Unix/Linux knowledge</li>
+        </ul>
           
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
