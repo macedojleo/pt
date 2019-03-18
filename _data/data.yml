@@ -152,8 +152,6 @@ projects:
 
 publications:
     title: Free courses
-    intro: |
-
     papers:
       - title: [Python in te Context of Engineering](/assets/certificates/PYTHON_Leonardo Macedo_en.pdf)
         authors: NTITEC (FEUP)
