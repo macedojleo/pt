@@ -134,16 +134,20 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
+      - title: Natural Language Processing and Machine Learning for IT Incident Management
+        link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
+        tagline: "Software Engineering MSc Thesis (in Portuguese)"
+        
       - title: BDH
         link: "https://macedojleo.github.io/BDH/"
         tagline: "Simple way to monitore Unix/Linux FS consumption and receive customized alarms with CLI + Slack + Webhook"
 
       - title: CosnFlix
-        link: "#COSNFLIX"
+        link: "https://github.com/macedojleo/COSNFLIX"
         tagline: "Video Streaming Service deployed in microservice architecture (Docker containers + Docker-compose) using JS Angular framework + Python + mysql"
 
-      - title: Tempo
-        link: "#DOCKER_ANSIBLE"
+      - title: Ansible CI Pipeline (working)
+        link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
         tagline: "Ansible Pipeline CI for Apache2, Python, Nginx and mysql deployed in Containers (Docker and Compose)"
 
 publications:
