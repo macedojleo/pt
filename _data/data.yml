@@ -127,12 +127,8 @@ experiences:
         </ul>
         
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    title: Free Courses
+    intro: 
     assignments:
       - title: Natural Language Processing and Machine Learning for IT Incident Management
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
