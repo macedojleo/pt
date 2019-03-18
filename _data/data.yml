@@ -156,8 +156,9 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
+
     papers:
-      - title: [Python in te Context of Engineering](/assets/certificates/PYTHON_Leonardo Macedo_en.pdf)
+      - title: [Python in te Context of Engineering](/assets/certificates/PYTHON_Leonardo\ Macedo_en.pdf)
         authors: NTITEC (FEUP)
         conference: Porto, 2018
 
