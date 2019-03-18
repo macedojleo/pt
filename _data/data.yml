@@ -127,7 +127,7 @@ experiences:
         </ul>
         
 projects:
-    title: Free Courses
+    title: Projects
     intro: 
     assignments:
       - title: Natural Language Processing and Machine Learning for IT Incident Management
@@ -147,12 +147,13 @@ projects:
         tagline: "Ansible CI Pipeline for Apache, Python, Nginx and mysql with containers (Docker and Compose)"
 
 publications:
-    title: Publications
+    title: Free Courses
       
     papers:
       - title: "Python in te Context of Engineering"
-        authors: NTITEC (FEUP), [certificate](/assets/certificates/PYTHON_Leonardo\ Macedo_en.pdf)
+        authors: NTITEC (FEUP)
         conference: Porto, 2018
+        <a href="/assets/certificates/PYTHON_Leonardo\ Macedo_en.pdf">Certificatet</a>
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
