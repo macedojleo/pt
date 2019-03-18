@@ -69,35 +69,34 @@ education:
         São Paulo - Brazil
 
 experiences:
-    - role: IT Specialist (BSCS)
+    - role: BSS (Telco) IT Specialist (Ericsson BSCS)
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        <b>BSCS Ver. IX</b> Rating modules administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's Cooperation.
+        Proactive scheduling (automation) for critical tasks, monitoring performance and faults (troubleshooting) related to Rating chain and Bill checkout process.
+        Product Catalogue, Catalogue Configuration and Rate Plans deploying. Risk analysis and technical validation for RFC (Request for Change) according to its impacts (ITIL).
+        Effective <b>Incident Management</b> from whole life cicle tickets since start through resolution and partnering with DEV-team / configuration team to determine root causes, and driving rigorous <b>Problem Management</b> to follow through on actions.
 
-          - Bullet point
-          - Bullet point
-
-    - role: IT Consultant
+          - Automation job Development (Shell Script, AWK, Python)
+          - Control-M Schedulher tool.
+          - Traffic Metrics definition and analysis by charges: (Voice/SMS/3G/4G/Other services), Call Types: (MOC,MTC,Roaming,Transit..), locations...
+          - Oracle SQL - Data structured extraction and customized reports for business decision making. 
+          - Apllications log analysis
+          - Strong Unix/Linux knowledge 
+          
+    - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        <b>OPSC GOLD</b> end-to-end 3rd level production support for Rating and customer care (notifications threshold) applications.
+        Incident management (ticketing), Problem management and Change management according to ITIL framework.
+        Strong knowledge of both technical and business flows, as well a strong focus on customer experience, service quality, development, and support a collaborative relationship with the technical team and business team.
+        Automated critical tasks, monitoring performance and faults (troubleshooting).
 
-          - Bullet point
-          - Bullet point
+          - Assist with UAT process
+          - Automated critical process
+          - Oracle SQL Customized report
 
     - role: Production Analyst
       time: 2008 - 2009
@@ -175,6 +174,9 @@ skills:
         
       - name: Oracle SQL 
         level: 75%
+        
+      - name: Ericsson BSCS (Telco end-to-end billing system)
+        level 75%
         
       - name: Docker & Docker compose (container platform and multi-container) 
         level: 75%
