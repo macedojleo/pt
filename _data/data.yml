@@ -123,7 +123,7 @@ experiences:
             <li>Unix/Linux administration</li>
             <li>Assist with UAT process</li>
             <li>Quantitative and qualitative analytical skills</li>
-            <li>problem recognition and solving skills</li>
+            <li>Problem recognition and solving skills</li>
         </ul>
         
 projects:
@@ -151,16 +151,13 @@ projects:
         tagline: "Ansible CI Pipeline for Apache, Python, Nginx and mysql with containers (Docker and Compose)"
 
 publications:
-    title: Publications
+    title: Free courses
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: [Python in te Context of Engineering](/assets/certificates/PYTHON_Leonardo Macedo_en.pdf)
+        authors: NTITEC (FEUP)
+        conference: Porto, 2018
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
