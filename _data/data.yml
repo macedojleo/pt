@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Leonardo Macedo
@@ -33,7 +33,17 @@ sidebar:
 
       - idiom: Spanish
         level: Professional
-
+        
+    interests:
+      - item: Technology
+        link:
+        
+      - item: Natural Language Processing
+        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
+        
+      - item: Amateur Photography &amp travel
+        link: https://www.instagram.com/leomacedobr/
+        
 career-profile:
     title: Career Profile
     summary: |
