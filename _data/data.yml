@@ -47,9 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant* with broad experience in Operations Processes, Implementation Process, and business support in Telecom domain.
+      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in Operations Processes, Implementation Process, and business support in Telecom domain.
       Strong knowledge in **ITIL framework** best practices for service management, mainly for **Incident Management**, **Problem Management**, **Service Availability**, and **Change Management** processes and procedures.
-      As a **Master Software Engineer** student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through **Natural Language Processing** and **Machine Learning**. You can see my work accessing this <a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a>.     
+      As a **Master Software Engineer** student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through **Natural Language Processing** and **Machine Learning**. You can see my work accessing this <a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a>.
+      <p>Download here PDF resume</p>
 
 education:
     - degree: MSc in Software Engineering (in progress)
