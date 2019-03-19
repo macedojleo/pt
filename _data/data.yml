@@ -150,17 +150,25 @@ publications:
     title: Free Courses
       
     papers:
-      - title: "Python in te Context of Engineering"
+      - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, 2018
-        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Certificate</a>
+        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Certificate Download</a>
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Oracle Database 11G Administrator"
+        authors: Ka solution - São Paulo, 2015
+        conference: <a href="/assets/certificates/Oracle.pdf">Certificate Download</a>
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Oracle Database 11G Administrator"
+        authors: ITIL V3 - São Paulo, 2014
+        conference: <a href="/assets/certificates/ITIL_V3.pdf">Certificate Download</a>
+
+      - title: "Cisco CCNA V3"
+        authors: Senac - São Paulo, 2006
+        conference: <a href="/assets/certificates/CCNA.pdf">Certificate Download</a>
+        
+      - title: "Linux System Administrator"
+        authors: Senac - São Paulo, 2006
+        conference: <a href="/assets/certificates/Linux.pdf">Certificate Download</a>
 
 skills:
     title: Skills &amp; Proficiency
