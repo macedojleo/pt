@@ -17,7 +17,7 @@ sidebar:
     website: macedojleo.github.io #do not add http://
     linkedin: macedojleo
     github: macedojleo
-    gitlab:
+    gitlab: @up201700418
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -29,10 +29,10 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: B2
+        level: Professional
 
       - idiom: Spanish
-        level: B2
+        level: Professional
 
     interests:
       - item: Technology
@@ -92,10 +92,10 @@ experiences:
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>OPSC GOLD</b> end-to-end <b>3rd level production support</b> for Rating and customer care (charge notifications) applications
-        Incident management (ticketing), Problem management (troubleshooting) and Change management (RFC risk analysis and techinical validation) according to ITIL framework.</p>
-        <p>Strong knowledge of both technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship with the technical team and business team.
-        Automation critical tasks, monitoring performance and faults (troubleshooting)</p>
+        <p><b>OPSC GOLD</b> end-to-end <b>3rd level production support</b> for Rating and Customer Care (charge notifications) applications.</p>
+        <p>Incident management (ticketing), Problem management (troubleshooting) and Change management (RFC risk analysis, support for business impact, and techinical validation) according to ITIL framework.</p>
+        <p>Strong knowledge of both technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between technical team and business team.
+        Automate and scheduling operational tasks, monitoring applications performance, hardware resources consuption, and faults.</p>
         
         
         <ul>
@@ -113,7 +113,7 @@ experiences:
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
         <p><b>2nd line support of Ericsson Mediation Platform System</b></p>
-        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a solution</b> or a contour solution (WA) to keep system uptime according to SLA. </p>
+        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a solution</b> or a contour solution (WA) in order to guarantee reliability, stability, and achieve uptime according to SLA</p>
         <p>Call data Records (CDR) processing validate (Collect, Filtering, Correlation, Aggregation, Normalization and Delivery) acting close to Production Billing Team according to detect and fix any CDR problem quickly. </p>
         <p>RFC Technical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p>         
         
@@ -128,23 +128,24 @@ experiences:
         
 projects:
     title: Projects
-    intro: 
+    intro: |
+        <p> This section describes personal projects, academic projects developed during my Master's degree studies, and MSc Thesis Working which I currently spend my work time</p>   
     assignments:
-      - title: Natural Language Processing and Machine Learning for IT Incident Management
+      - title: Automate IT Incident Management Process with Natural Language Processing and Machine Learning
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
         tagline: "Software Engineering MSc Thesis (in Portuguese)"
         
-      - title: BDH
+      - title: BDH - Monitore Unix/Linux FS
         link: "https://macedojleo.github.io/BDH/"
-        tagline: "Simple way to monitore Unix/Linux FS consumption and receive customized alarms with CLI + Slack + Webhook"
+        tagline: "Easy way to monitore Unix/Linux FS consumption and customized alarms through CLI + Slack + Webhook"
 
       - title: CosnFlix
         link: "https://github.com/macedojleo/COSNFLIX"
-        tagline: "Video Streaming Service with microservice architecture"
+        tagline: "Video Streaming Service using microservices architecture (Docker and Docker Compose)"
 
       - title: Ansible CI Pipeline (working)
         link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
-        tagline: "Ansible CI Pipeline for Apache, Python, Nginx and mysql with containers (Docker and Compose)"
+        tagline: "Ansible CI for Apache, Python, Nginx and mysql environment using containers (Docker and Docker Compose)"
 
 publications:
     title: Free Courses
@@ -186,16 +187,16 @@ skills:
       - name: Oracle SQL 
         level: 75%
         
-      - name: Ericsson BSCS (Telco end-to-end billing system)
+      - name: Ericsson BSCS (end-to-end billing system for any type of communications service provider)
         level: 75%
         
-      - name: Docker & Docker compose (container platform and multi-container) 
+      - name: Docker & Docker compose (container platform and multi-container Docker applications) 
         level: 75%
 
       - name: BMC Control-M (Job Scheduler)
         level: 70%
         
-      - name: Ansible (Automate Application Deployment + Continuous Delivery)
+      - name: Ansible (Automate Application Deployment for Continuous Integration)
         level: 70%
           
       - name: Python, NLTK and Pandas (Data Analysis)
