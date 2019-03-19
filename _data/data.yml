@@ -52,17 +52,19 @@ career-profile:
       As a **Master Software Engineer** student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through **Natural Language Processing** and **Machine Learning**. You can see my work accessing this <a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a>.
 
 education:
-    - degree: MSc in Software Engineering (in progress)
+    - degree: M.Sc in Software Engineering (in progress)
       university: Faculty of Engineering, University of Porto (FEUP)
       time: 2017 - 2019
       details: |
-        Porto - Portugal
+        Porto, Portugal      
+        
 
-    - degree: BSc in Computer Science
-      university: São Judas Tadeu Faculty
+    - degree: B.Sc in Computer Science
+      university: São Judas Tadeu Faculty - São Paulo, Brazil
       time: 2007 - 2010
       details: |
-        São Paulo - Brazil
+        São Paulo, Brazil
+        
 
 experiences:
     - role: BSS (Telco) IT Specialist (Ericsson BSCS)
