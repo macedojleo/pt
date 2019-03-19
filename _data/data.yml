@@ -73,12 +73,13 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        <p><b>BSCS Ver. IX Rating modules</b> administration (FIH, PRIH, RIH, PCCH, CCH), ensuring performance and quality of the technical platform, servers and applications besides Vendor's, DEV Team, and QA Team Cooperation.</p>
-        <p>Effective <b>Incident Management</b> from whole life cicle tickets since start through resolution and partnering with DEV-team and configuration team to determine root causes, and driving rigorous <b>Problem Management</b> to follow through on actions.</p>
-        <p>The main roles were Workload prioritization assignments and resolve any conflicts that may arise, proactive scheduling (automation) for critical process, monitoring performance and faults (troubleshooting) related to Rating chain and Bill Checkout process,
-        deploy any changes in Product Catalogue, Catalogue Configuration, Rate Plans, and FIXES, as well risk analysis and technical validation for any RFC (Request for Change) according to its impacts.</p>
-        <p>Data Analysis, definition Traffic Metrics through charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit...), locations, etc. Create and customize data extraction procedures, customizing  business reports, and setting workflows (Google Charts automation)</p>
-        
+        <p><b>BSCS iX Rating modules</b> (FIH, PRIH, RIH, PCCH, CCH, RLH) administration, ensuring performance and quality of the technical platform, servers and applications besides Vendor's, DEV Team, and QA Cooperation.</p>
+        <p>Effective <b>Incident Management</b> from whole life cycle tickets since start through resolution with partnering among PRD, DEV, and Configuration teams to determine root causes and driving to rigorous <b>Problem Management</b> to follow through on actions.</p>
+        <p>Main roles were: Workload prioritization assignments, resolve any conflicts that may arise, proactive scheduling (automation) for critical process, monitoring performance and faults (troubleshooting) related to Rating chain and Bill Checkout process,
+        Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes deploy, as well risk analysis and technical validation for each RFC (Request for Change) according to its impacts.</p>
+        <p>Other activities related to business support (revenue assurance and financial billing) were: CDR traffic metrics analysis (data analysis), customize traffic reports such as charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit...), and locations. Develop, customize and automate data extraction procedures, dashboards (Google Charts)</p>
+ 
+ 
         <ul>
             <li>Strong Unix/Linux knowledge</li>
             <li>Automation job Development</li>
@@ -112,8 +113,8 @@ experiences:
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>2nd line support of Ericsson Mediation Platform System</b></p>
-        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a solution</b> or a contour solution (WA) in order to guarantee reliability, stability, and achieve uptime according to SLA</p>
+        <p><b>Ericsson Mediation Platform System</b>Production analyst</p>
+        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability keeping the system uptime according to SLA</p>
         <p>Call data Records (CDR) processing validate (Collect, Filtering, Correlation, Aggregation, Normalization and Delivery) acting close to Production Billing Team according to detect and fix any CDR problem quickly. </p>
         <p>RFC Technical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p>         
         
