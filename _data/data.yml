@@ -1,7 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -50,6 +49,7 @@ career-profile:
       Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in Operations Processes, Implementation Process, and business support in Telecom domain.
       Strong knowledge in **ITIL framework** best practices for service management, mainly for **Incident Management**, **Problem Management**, **Service Availability**, and **Change Management** processes and procedures.
       As a **Master Software Engineer** student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through **Natural Language Processing** and **Machine Learning**. You can see my work accessing this <a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a>.
+      <p>Click <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a><b> to download the resume file in PDF format.
 
 education:
     - degree: M.Sc in Software Engineering (in progress)
