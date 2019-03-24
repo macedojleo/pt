@@ -3,7 +3,7 @@
 #
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Leonardo Macedo
@@ -34,14 +34,14 @@ sidebar:
         level: Professional
         
     interests:        
-#      - item: Natural Language Processing
-#        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
-#        
-#      - item: Amateur Photography &amp travel
-#        link: https://www.instagram.com/leomacedobr/
-#        
-#      - item: Graphic design &amp Magazine layout 
-#        link: https://issuu.com/macedoleonardo
+      - item: Natural Language Processing
+        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
+        
+      - item: Amateur Photography &amp travel
+        link: https://www.instagram.com/leomacedobr/
+        
+      - item: Graphic design &amp Magazine layout 
+        link: https://issuu.com/macedoleonardo
         
 career-profile:
     title: Career Profile
@@ -49,7 +49,7 @@ career-profile:
       Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in Operations Processes, Implementation Process, and business support in Telecom domain.
       <p>Strong knowledge in <b>ITIL framework</b> best practices for IT service management, mainly <b>Incident Management</b>, <b>Problem Management</b>, <b>Service Availability</b>, and <b>Change Management</b> processes and procedures.</p>
       <p>As a <b>Master Software Engineer</b> student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through <b>Natural Language Processing</b> and <b>Machine Learning</b>. You can see my work accessing this <b><a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a></b></p>.
-#      <p>Download <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> resume in PDF version.</p>
+      <p>Download <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> resume in PDF version.</p>
 
 education:
     - degree: M.Sc in Software Engineering (in progress)
