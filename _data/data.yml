@@ -77,7 +77,8 @@ experiences:
         <p><b>BSCS iX Rating modules</b> (FIH, PRIH, RIH, PCCH, CCH, RLH) administration, ensuring performance and quality of the technical platform, servers and applications besides Vendor's, Dev Team, and QA Cooperation.</p>
         <p>Effective <b>Incident Management</b> from whole life cycle tickets since start through resolution with partnering among Prd, Dev, and Configuration teams to determine root causes and driving to rigorous <b>Problem Management</b> to follow through on actions.</p>
         <p>Main roles were: <b>Workload prioritization assignments</b>, <b>resolve</b> any <b>conflicts</b> that may arise, proactive scheduling (<b>automation</b>) for the <b>critical tasks</b>, monitoring performance and faults (<b>Trouble-Ticketing</b>) related to Rating chain and Bill Checkout process,
-        Deploying Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes, as well evaluate risk and technical RFC (Request for Change) impacts, Change Advisory Board (CAB) participate.</p>
+        Deploying Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes, as well eval
+        e risk and technical RFC (Request for Change) impacts, Change Advisory Board (CAB) participate.</p>
         <p>Other activities related to <b>business support</b> (revenue assurance and financial billing areas) were: CDR traffic <b>metrics analysis</b> such as charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit), and by locations traffic reports, data extraction procedures (edit, create, and schedule), and dashboards maintaining (Google Charts)</p>
  
         <ul> 
@@ -107,7 +108,7 @@ experiences:
             <li>Control-M Scheduler Tool</li>
             <li>SQL Procedures</li>
             <li>Strong Unix/Linux Knowledge</li>
-            <li>Assist with UAT Process</li>
+            <li>Assist with User Acceptance Test (UAT) Process</li>
         </ul>
         
     - role: Production Analyst
