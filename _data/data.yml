@@ -34,14 +34,14 @@ sidebar:
         level: Professional
         
     interests:        
-      - item: Natural Language Processing
-        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
-        
-      - item: Amateur Photography &amp travel
-        link: https://www.instagram.com/leomacedobr/
-        
-      - item: Graphic design &amp Magazine layout 
-        link: https://issuu.com/macedoleonardo
+#      - item: Natural Language Processing
+#        link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
+#        
+#      - item: Amateur Photography &amp travel
+#        link: https://www.instagram.com/leomacedobr/
+#        
+#      - item: Graphic design &amp Magazine layout 
+#        link: https://issuu.com/macedoleonardo
         
 career-profile:
     title: Career Profile
