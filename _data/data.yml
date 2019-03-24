@@ -12,7 +12,7 @@ sidebar:
 
     # Sidebar links
     email: macedojleo@gmail.com
-    phone:
+    phone: 
     website: macedojleo.github.io #do not add http://
     linkedin: macedojleo
     github: macedojleo
@@ -33,10 +33,7 @@ sidebar:
       - idiom: Spanish
         level: Professional
         
-    interests:
-      - item: Technology
-        link:
-        
+    interests:        
       - item: Natural Language Processing
         link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
         
