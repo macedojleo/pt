@@ -114,8 +114,8 @@ experiences:
       details: |
         <p><b>Ericsson Mediation Platform System</b> Production analyst</p>
         <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability keeping the system uptime according to SLA</p>
-        <p>Call Data Records (CDR) processing validate (Collect, Filtering, Correlation, Aggregation, Normalization, and Delivery) acting close to Production Billing Team according to detect and fix any CDR problem quickly. </p>
-        <p>RFC Technical validation and Business impacts, Incident Management (ticketing), and Problem Management (troubleshooting)</p>         
+        <p> Analysis and validation of the input, business rules, regulatory standards, and output Call Data Records (CDR) processing (Collect, Filtering, Correlation, Aggregation, Normalization, and Delivery). Acting close to Production Billing Team and other user areas according to detect and fix any problem quickly. </p>
+        <p>Request for change (RFC) analysis for risk, technical and Business impacts, besides Incident Management (ticketing), and Problem Management (troubleshooting and trouble tickets)</p>         
         
         <ul>
             <li>ITIL</li>        
@@ -123,13 +123,14 @@ experiences:
             <li>Unix (Solaris)</li>
             <li>Assist with process</li>
             <li>Quantitative and qualitative analytical skills</li>
+            <li>Incident and Problems</li>
             <li>Problem recognition and solving skills</li>
         </ul>
         
 projects:
     title: Projects
     intro: |
-        <p> This section describes personal projects, academic projects developed during my Master's degree studies, and MSc Thesis Working which I currently spend my work time.</p>   
+        <p> This section describes personal and academic projects developed during my Master's degree studies. In ths section you can find too my M.Sc thesis work (in progress) which I currently spend my work time.</p>   
     assignments:
       - title: Automate IT Incident Management Process with Natural Language Processing and Machine Learning
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
