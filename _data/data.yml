@@ -136,9 +136,9 @@ projects:
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
         tagline: "Software Engineering MSc working Thesis (in Portuguese)"
         
-      - title: BDH - Monitore Unix/Linux FS
+      - title: BDH - Monitorize Unix and Linux FS consuption
         link: "https://macedojleo.github.io/BDH/"
-        tagline: "Easy way to monitore Unix/Linux FS consumption and customized alarms through CLI + Slack + Webhook"
+        tagline: "Easy way to monitor Unix/Linux FS consumption and customized alarms through CLI + Slack + Webhook"
 
       - title: CosnFlix
         link: "https://github.com/macedojleo/COSNFLIX"
