@@ -138,13 +138,13 @@ projects:
         
       - title: BDH - Monitorize Unix and Linux FS consuption
         link: "https://macedojleo.github.io/BDH/"
-        tagline: "Easy way to monitor Unix/Linux FS consumption and customized alarms through CLI + Slack + Webhook"
+        tagline: "Easy way to monitor Unix/Linux FS consumption customizing alarms and thresholds using Slack & Webhook"
 
       - title: CosnFlix
         link: "https://github.com/macedojleo/COSNFLIX"
-        tagline: "Video Streaming Service using microservices architecture (Docker and Docker Compose)"
+        tagline: "Video Streaming Service deployed using microservices architecture (Docker and Docker Compose)"
 
-      - title: Ansible CI Pipeline (working)
+      - title: Ansible CI Pipeline (still working)
         link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
         tagline: "Ansible CI for Apache, Python, Nginx and mysql environment using containers (Docker and Docker Compose)"
 
