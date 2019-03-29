@@ -203,7 +203,10 @@ skills:
       - name: Ansible (Automate Application Deployment for Continuous Integration)
         level: 65%
           
-      - name: Python, NLTK and Pandas (Data Analysis)
+      - name: Python Pandas (Data Analysis)
+        level: 65% 
+        
+      - name: Python NLTK (Natural Language Processing)
         level: 65% 
 
 footer: >
