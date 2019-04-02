@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Leonardo Macedo
-    tagline: Software Engineer | SysAdm | BSS (Telco) analyst
+    tagline: Software Engineer | SysAdmin | BSS (Telco) analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in applications support integration, operations, and business support in Telecom domain.
+      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in mediation and billing applications support integration, operations, and business support in Telecom domain.
       <p>Strong knowledge in IT Service Management best practices <b>(ITIL framework)</b> mainly focused on <b>Incident Management</b>, <b>Problem Management</b>, <b>Service Availability</b>, and <b>Change Management</b> processes and procedures.</p>
       <p>As last semester <b>M.Sc</b> student in <b>Software Engineering</b>, I'm currently working on my thesis about <b>automating ITSM Incident Management process</b> through <b>Natural Language Processing</b> (NLP) and <b>Machine Learning</b> techniques. You can see my work <b><a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">here</a></b></p>.
       <p>Get <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> the resume in PDF version in english or <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> in Portuguese.</p>
@@ -92,9 +92,9 @@ experiences:
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>OPSC GOLD</b> end-to-end <b>3rd level production support</b> for Rating, Customer Care (charge notifications) systems.</p>
-        <p>Incident management (ticketing), Problem management (Trouble-Ticketing) and Change management (RFC risk analysis, support for business impact, and technical validation) according to the ITIL framework.</p>
-        <p>Strong knowledge of both technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between the technical team and business team.
+        <p><b>OPSC GOLD</b> end-to-end <b>3rd level Production Support</b> Rating and customer care (charge notifications) systems.</p>
+        <p>Incident management (ticketing), Problem management (Trouble-Ticketing) and Change management (RFC risk analysis, support for business impact, technical validation, and progress monitoring) according to the ITSM best practices (ITIL).</p>
+        <p>Strong knowledge of both, technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between the technical team and business team.
         Automating and scheduling operational tasks, monitoring applications performance, hardware resources consumption, and faults.</p>
         
         
@@ -112,18 +112,16 @@ experiences:
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>Ericsson Mediation Platform System</b> Production analyst</p>
-        <p>Following <b>Incidents</b> and <b>defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability keeping the system uptime according to SLA and KPI metrics.</p>
-        <p> Analysis and validation of the input, business rules, regulatory standards, and output Call Data Records (CDR) processing (Collect, Filtering, Correlation, Aggregation, Normalization, and Delivery). Acting close to Production Billing Team and other user areas according to detect and fix any problem quickly.</p>
-        <p>Request for change (RFC) analysis for risk, technical and Business impacts, besides Incident Management (ticketing) and Problem Management (troubleshooting and trouble tickets).</p>         
-        
+        <p><b>Ericsson Mediation</b> Production analyst responsible to filter out the non-relevant data, aggregate the partial data records and transform the data as required by the data consumer.</p>
+        <p>Main roles were attendance <b>Incidents</b> tickets and <b>Defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability according to SLA and KPI metrics.</p>
+        <p>Analysis and validation inputs (CDR) and outputs (XML, Ascii, DB) ensuring business rules and regulatory standards, acting close to another production and operation teams according to detect and fix any issue as fast as possible.</p>
+        <p>Request for Change (RFC) process technical validation, risk mitigation and progress monitoring.</p>        
         <ul>
             <li>ITIL</li>        
             <li>Scripting</li>
             <li>Unix (Solaris)</li>
-            <li>Assist with process</li>
             <li>Quantitative and qualitative analytical skills</li>
-            <li>Incident and Problems</li>
+            <li>Incidents analisys</li>
             <li>Problem recognition and solving skills</li>
         </ul>
         
