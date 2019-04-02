@@ -46,10 +46,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in Operations Processes, Implementation Process, and business support in Telecom domain.
-      <p>Strong knowledge in <b>ITIL framework</b> best practices for IT service management, mainly <b>Incident Management</b>, <b>Problem Management</b>, <b>Service Availability</b>, and <b>Change Management</b> processes and procedures.</p>
-      <p>As a <b>Master Software Engineer</b> student from FEUP in Portugal, I'm currently working on my master's thesis about automating ITSM Incident Management process through <b>Natural Language Processing</b> and <b>Machine Learning</b>. You can see my work accessing this <b><a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">link</a></b></p>.
-      <p>Download <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> resume in PDF version.</p>
+      Over 9 years' experience as **Business Support Systems (BSS) analyst** and **IT consultant** with broad experience in applications support integration, operations, and business support in Telecom domain.
+      <p>Strong knowledge in IT Service Management best practices <b>(ITIL framework)</b> mainly focused on <b>Incident Management</b>, <b>Problem Management</b>, <b>Service Availability</b>, and <b>Change Management</b> processes and procedures.</p>
+      <p>Last semester <b>M.Sc</b> student in <b>Faculty of Engineering at University of Porto in Portugal</b>, I'm currently working on my thesis about <b>automating ITSM Incident Management process</b> through <b>Natural Language Processing</b> (NLP) and <b>Machine Learning</b> techniques. You can see my work accessing <b><a href="https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/">here</a></b></p>.
+      <p>Get <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> the resume in PDF version in english or <b><a href="/assets/certificates/CV_Macedo_Leonardo.pdf">here</a></b> in Portuguese.</p>
 
 education:
     - degree: M.Sc in Software Engineering (in progress)
@@ -130,7 +130,7 @@ experiences:
 projects:
     title: Projects
     intro: |
-        <p> This section describes personal and academic projects developed during my Master's degree studies. In ths section you can find too my M.Sc thesis work (in progress) which I currently spend my work time.</p>   
+        <p> This section describes personal open source and academic projects developed during my Master's degree studies. In ths section you can find too my M.Sc thesis work (in progress) which I currently most of my work time.</p>   
     assignments:
       - title: Automate IT Incident Management Process with Natural Language Processing and Machine Learning
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
