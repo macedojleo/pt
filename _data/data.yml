@@ -140,11 +140,11 @@ projects:
 
       - title: CosnFlix
         link: "https://github.com/macedojleo/COSNFLIX"
-        tagline: "Video Streaming Service deployed using microservices architecture (Docker and Docker Compose)"
+        tagline: "Doker-based (microservices architecure) Video Streaming Service"
 
       - title: Ansible CI Pipeline (still working)
         link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
-        tagline: "Ansible CI for Apache, Python, Nginx and mysql environment using containers (Docker and Docker Compose)"
+        tagline: "Webserver (Apache, Python Django, Nginx and mysql) docker-based environment using Continous Integration process with Ansible"
 
 publications:
     title: Free Courses
