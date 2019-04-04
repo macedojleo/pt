@@ -112,9 +112,9 @@ experiences:
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>Ericsson Mediation</b> Production analyst responsible to filter out the non-relevant data, aggregate the partial data records and transform the data as required by the data consumer.</p>
+        <p><b>Ericsson Mediation</b> Production analyst responsible for application reliability and ensure the correct operation, rules and regulatory standards.</p>
         <p>Main roles were attendance <b>Incidents</b> tickets and <b>Defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability according to SLA and KPI metrics.</p>
-        <p>Analysis and validation inputs (CDR) and outputs (XML, Ascii, DB) ensuring business rules and regulatory standards, acting close to another production and operation teams according to detect and fix any issue as fast as possible.</p>
+        <p>Analysis and validation inputs (CDR) and outputs (XML soa architecture, Ascii, DB) acting close with the other operation/production teams in order to detect and fix any issue as fast as possible.</p>
         <p>Request for Change (RFC) process technical validation, risk mitigation and progress monitoring.</p>        
         <ul>
             <li>ITIL</li>        
