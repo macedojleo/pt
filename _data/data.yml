@@ -34,7 +34,7 @@ sidebar:
         level: Profissional
         
     interests:        
-    - item: Natural Language Processing &amp Machine Learning
+    - item: Processamento de Linguagem Natural &amp Machine Learning
       link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
         
     - item: Fotografia amadora &amp Viagens
@@ -44,7 +44,7 @@ sidebar:
       link: https://issuu.com/macedoleonardo
         
 career-profile:
-    title: Experiência Profissional
+    title: Apresentação
     summary: |
       Over 9 years work experience as **Business Support Systems (BSS) analyst**, **SysAdmin**, and **IT consultant** with broad experience in mediation and billing applications support integration, operations, and business support in Telecom domain.
       <p>Strong knowledge in IT Service Management best practices <b>(ITIL framework)</b>, IT service delivery, application support, and site reiability for Linux and Unix OS based.</p>
@@ -126,79 +126,79 @@ experiences:
         </ul>
         
 projects:
-    title: Projects
+    title: Projetos Pessoais e Acadêmicos
     intro: |
-        <p> This section describes personal open source and academic projects developed during my Master's degree studies. In ths section you can find too my M.Sc thesis work (in progress) which I currently most of my work time.</p>   
+        <p> Esta seção exibe projetos pessoais e acadêmicos realizados durante meus estudos de mestrado em Engenharia de Software. Esta sessão lista também, meu projeto de tese sobre automação da categorização de ticktes de incidentes no processo de Gerenciamento de Incidentes em ITSM.</p>   
     assignments:
-      - title: Automate IT Incident Management Process with Natural Language Processing and Machine Learning
+      - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
-        tagline: "Software Engineering MSc working Thesis (in Portuguese)"
+        tagline: "Tese de M.Sc em Engenharia de Software"
         
-      - title: BDH - Monitorize Unix and Linux FS consuption
+      - title: BDH - Monitore facilmente o consumo de FS em sistemas Unix e Linux
         link: "https://macedojleo.github.io/BDH/"
-        tagline: "Easy way to monitor Unix/Linux FS consumption customizing alarms and thresholds using Slack & Webhook"
+        tagline: "Um jeito fácil de monitorar o consumo de FS em sistemas Unix e Linux através de limiares configuráveis e alarmes com Slack & Webhook"
 
       - title: CosnFlix
         link: "https://github.com/macedojleo/COSNFLIX"
-        tagline: "Doker-based (microservices architecure) Video Streaming Service"
+        tagline: "Serviço de Streaming de Vídeo baseado em uma infraestrutura de microserviços (docker containers)"
 
-      - title: Ansible CI Pipeline (still working)
+      - title: Ansible CI para infraestrtura web server (em desenvolvimento)
         link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
-        tagline: "Webserver (Apache, Python Django, Nginx and mysql) docker-based environment using Continous Integration process with Ansible"
+        tagline: "Infraestrtura de micro serviços com (Apache, Python Django, Nginx e mysql) baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
-    title: Free Courses
+    title: Cursos Livres
       
     papers:
       - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, Portugal | 2018
-        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Certificate Download</a>
+        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download do certificado</a>
 
       - title: "Oracle Database 11G Administrator"
         authors: Ka solution - São Paulo, Brazil | 2015
-        conference: <a href="/assets/certificates/Oracle.pdf">Certificate Download</a>
+        conference: <a href="/assets/certificates/Oracle.pdf">Download do certificado</a>
 
       - title: "ITIL V3 - Foundations"
         authors: Ka Solution - São Paulo, Brazil | 2014
-        conference: <a href="/assets/certificates/ITIL_V3.pdf">Certificate Download</a>
+        conference: <a href="/assets/certificates/ITIL_V3.pdf">Download do certificado</a>
 
       - title: "Cisco CCNA V3"
         authors: Senac - São Paulo, Brazil | 2006
-        conference: <a href="/assets/certificates/CCNA.pdf">Certificate Download</a>
+        conference: <a href="/assets/certificates/CCNA.pdf">Download do certificado</a>
         
       - title: "Linux System Administrator"
         authors: Senac - São Paulo, Brazil | 2006
-        conference: <a href="/assets/certificates/Linux.pdf">Certificate Download</a>
+        conference: <a href="/assets/certificates/Linux.pdf">Download do certificado</a>
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades &amp Proeficiência
 
     toolset:
       - name: Shell Script & AWK
         level: 90%
         
-      - name: Unix & Linux administration
+      - name: Administração Unix & Linux
         level: 85%
       
-      - name: Git & GitHub (version control and code hosting platform) 
+      - name: Git & GitHub (hospedagem de código-fonte e controle de versionamento de software) 
         level: 80%
         
-      - name: Text Markup Languages (XML, HTML, Markdown, LaTex) 
+      - name: Linguagens de marcação de texto (XML, HTML, Markdown, LaTex) 
         level: 80%
         
       - name: Oracle SQL 
         level: 75%
         
-      - name: Ericsson BSCS (end-to-end billing system for any type of communications service provider)
+      - name: Ericsson BSCS (Sistema de Billing end-to-end)
         level: 75%
         
-      - name: Docker & Docker compose (container platform and multi-container Docker applications) 
+      - name: Docker & Docker compose (Plataforma para containers e multi-containers) 
         level: 75%
 
       - name: BMC Control-M (Job Scheduler)
         level: 70%
         
-      - name: Ansible (Automate Application Deployment for Continuous Integration)
+      - name: Ansible (gerenciamento de configuração e implementação de aplicativos)
         level: 65%
           
       - name: Python Pandas (Data Analysis)
