@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Leonardo Macedo
-    tagline: Software Engineer | SysAdmin | BSS (Telco) analyst
+    tagline: Engenheiro de Software | SysAdmin | Analista BSS (Telecom)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,27 +24,27 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Portuguese
-        level: Native
+      - idiom: Português
+        level: Nativo
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglês
+        level: Profissional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Espanhol
+        level: Profissional
         
     interests:        
     - item: Natural Language Processing &amp Machine Learning
       link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
         
-    - item: Amateur Photography &amp Travel
+    - item: Fotografia amadora &amp Viagens
       link: https://www.instagram.com/leomacedobr/
         
-    - item: Graphic design &amp Magazine layout 
+    - item: Design gráfico &amp Diagramação 
       link: https://issuu.com/macedoleonardo
         
 career-profile:
-    title: Career Profile
+    title: Experiência Profissional
     summary: |
       Over 9 years work experience as **Business Support Systems (BSS) analyst**, **SysAdmin**, and **IT consultant** with broad experience in mediation and billing applications support integration, operations, and business support in Telecom domain.
       <p>Strong knowledge in IT Service Management best practices <b>(ITIL framework)</b>, IT service delivery, application support, and site reiability for Linux and Unix OS based.</p>
