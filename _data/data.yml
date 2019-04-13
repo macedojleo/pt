@@ -47,9 +47,9 @@ career-profile:
     title: Apresentação
     summary: |
       <p>Aproximadamente <b>9 anos atuando </b> em operações e consultoria de sistemas OSS/BSS em telecomunicações.</p>
-      <p>Nos últimos anos fez parte do time responsável por ser o contato principal (SME) da cadeia de tarifação do sistema de Ericsson de Billing Convergente (BSCS-IX) em questões técnicas (tickets, problemas e solicitações), de suporte as equipes de negócios, implantações e automações de processos (scripting).</p>
+      <p>Nos últimos anos fez parte do time responsável em ser <b>ponto focal</b> (SME) da cadeia de tarifação do sistema de Billing Convergente Ericsson (BSCS-IX) de uma das maiores empresas de telecomunicações do Brasil em questões técnicas (tickets, problemas e solicitações), de suporte às equipes de negócios, vaalidações, implantações, monitoração e automações de processos (scripting).</p>
       <p>Amplo <b>senso de criticidade e resolução de problemas</b>, participou ativamente dos processos de gestão de risco e crise, propondo soluções definitivas e/ou alternativas com foco na disponibilidade e entrega de serviços de TI, além do cumprimento de acordos de níveis de serviço (SLA.)</p>
-      <p>Atualmente, trabalha no desenvolvimento da tese de mestrado e Engenharia de Softare sobre o <b>uso de Machine Learning e Processamento de Lingugagem natural na melhoria do processo de classificação de tickets de incidentes em ITSM</b>.</p>
+      <p>Atualmente, trabalha no desenvolvimento da tese de mestrado em Engenharia de <i>Software</i> sobre o <b>uso de <i>Machine Learning</i> e Processamento de Lingugagem natural (NLP) na melhoria do processo de classificação de <i>tickets</i> de incidentes em ITSM</b>.</p>
       <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf">aqui</a></b> curriculum no formato PDF (em português)</p>
 
 education:
