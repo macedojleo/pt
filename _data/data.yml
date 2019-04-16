@@ -106,7 +106,7 @@ experiences:
 projects:
     title: Projetos Pessoais e Acadêmicos
     intro: |
-        <p> Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</p>   
+        <p><b>Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</b></p>   
     assignments:
       - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
