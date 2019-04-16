@@ -75,21 +75,21 @@ experiences:
         <p><b>SME da cadeia de tarifação sistema Ericsson BSCS-IX</b> (módulos FIH, PRIH, RIH, PCCH, CCH, RLH)</p>
         <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
         <p>Representante técnico em <i>Technical Advosry Board</i> (TAB) durante o processo de gerenciamento de mudanças, definindo estratégias de <i>rollout</i> e participando de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
-        <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting)</p>
-        <p>Extração de relatórios complementares a BI, auxiliando equipes de negócios através de extração de dados, formatação e carregamento em base de dados (processo ETL)</p> 
+        <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting).</p>
+        <p>Extração de relatórios complementares a BI, auxiliando equipes de negócios através de extração de dados, formatação e carregamento em base de dados (processo ETL).</p> 
         <p>Etiquetas:</p>
-        <p>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</p> 
+        <p><b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</b></p> 
           
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>Consultor/analista de produção em sistemas de suporte ao negócio de telecomunicação (BSS)</b> da cadeia de <i>rating</i> convergente (sistema <b>OPSC GOLD</b>)</p>
-        <p>Suporte às áreas de negócio e garantia de entrega de serviços da cadeia de tarifação, anulando ou reduzindo impactos aos ciclos de <i>Billing</i> e faturamento.</p>
-        <p>Gerenciamento de tickets de incidente, análise de negócios (solicitações), problemas (<i>Troubleshooting</i>) e mudanças (Análise técnica, mitigação de riscos e definicação de melhor estratégia para rollout), conforme práticas ITIL.</p>
-        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação operacional de processos, administração de ambiente Unix (HP-UX)/Linux (RedHat), definição de politíca de retenção de dados (expurgo) e <i>backup</i>, controle de utilização de recursos e processamento (aumento e redução de instancias de processos sob-demanda).</p>
+        <p><b>Consultor</b> em sistemas de suporte ao negócio de telecomunicações (BSS) da cadeia de <i>rating</i> convergente <b>OPSC GOLD</b></p>
+        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente aos ciclos de faturamento.</p>
+        <p>Gerenciamento de tickets de incidente, definição de atendimento e análise de solicitações das equipes de negócios, <i>Troubleshooting</i>, disponibilidade e mudanças (Análise técnica, mitigação de riscos e definicação de melhor estratégia para rollout), conforme práticas ITIL.</p>
+        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> para monitoração, administração de ambiente Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo) e <i>backup</i>, otimização de uso de recursos computacionais mediante análise de métricas de tráfego.</p>
         <p>Etiquetas:</p>
-        <p>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</p> 
+        <p><b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</b></p> 
         
     - role: Production Analyst
       time: 2008 - 2009
