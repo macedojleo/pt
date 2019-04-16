@@ -50,7 +50,8 @@ career-profile:
       <p>Nos últimos anos fez parte do time responsável de <b>especialistas</b> (SME) em assuntos técnicos da cadeia de tarifação do sistema de <i>Billing</i> Convergente Ericsson (BSCS-IX) em uma das maiores empresas de telecomunicações atuante no Brasil.</p>
       <p>Perfil técnico com <b>senso de criticidade e resolução de problemas</b>, participa ativamente dos processos de gestão de risco e gestão de crises, sendo capaz de propor soluções definitivas e/ou alternativas com foco na disponibilidade e entrega de serviços de TI e cumprimento de acordos de níveis de serviço (SLA.)</p>
       <p>Atualmente, trabalha no desenvolvimento da tese de mestrado do curso de Engenharia de <i>Software</i> sobre a <b>utilização de técnicas de <i>Machine Learning</i> e Processamento de Lingugagem Natural (NLP) para automação dos processos de classificação de <i>tickets</i> de incidentes em ITSM</b>.</p>
-      <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf">aqui</a></b> curriculum no formato PDF (em português)</p>
+      <br>
+      <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf">aqui</a></b> CV no formato PDF (em português)</p>
 
 education:
     - degree: M.Sc em Engenharia de Software (em progresso)
@@ -76,42 +77,36 @@ experiences:
         <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
         <p>Representante técnico em <i>Technical Advosry Board</i> (TAB) durante o processo de gerenciamento de mudanças, definindo estratégias de <i>rollout</i> e participando de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
         <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting).</p>
-        <p>Relatórios complementares a BI, auxiliando equipes de negócios através de extração de dados, formatação e carregamento em base de dados (processo ETL).</p> 
+        <p>Atendimento de solicitações pontuais dos times de negócios quanto a extração de dados, formatação e carregamento em base de dados (processo ETL).</p> 
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</b></p>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Ericsson, BSCS-IX</b></p>
           
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
         <p><b>Consultor</b> em sistemas de suporte ao negócio de telecomunicações (BSS) da cadeia de <i>rating</i> convergente <b>OPSC GOLD</b></p>
-        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente aos ciclos de faturamento.</p>
-        <p>Gerenciamento de tickets de incidente, definição de atendimento e análise de solicitações das equipes de negócios, <i>Troubleshooting</i>, disponibilidade e mudanças (Análise técnica, mitigação de riscos e definicação de melhor estratégia para rollout), conforme práticas ITIL.</p>
-        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> para monitoração, administração de ambiente Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo) e <i>backup</i>, otimização de uso de recursos computacionais mediante análise de métricas de tráfego.</p>
-        <p>Etiquetas:</p>
-        <p><b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</b></p> 
+        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente, aos ciclos de faturamento.</p>
+        <p>Gerenciamento de tickets de incidentes, priorização de atendimento e análise de solicitações das equipes de negócios, <i>Troubleshooting</i>, gestão de disponibilidade e validação de mudanças (Análise técnica, mitigação de riscos e definicação de estratégias de rollout) de acordo com às práticas ITIL.</p>
+        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> de monitoração, administração de ambientes Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo), <i>backup</i> e otimização de uso de recursos computacionais através de análise histórica de métricas de tráfego.</p>
+        <br>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
     - role: Production Analyst
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>Ericsson Mediation</b> Production analyst responsible for application reliability and ensure the correct operation, rules and regulatory standards.</p>
-        <p>Main roles were attendance <b>Incidents</b> tickets and <b>Defects</b> in a timely manner <b>providing a definitive solution</b> or at least a contour solution (WA) in order to guarantee reliability and stability according to SLA and KPI metrics.</p>
-        <p>Analysis and validation inputs (CDR) and outputs (XML soa architecture, Ascii, DB) acting close with the other operation/production teams in order to detect and fix any issue as fast as possible.</p>
-        <p>Request for Change (RFC) process technical validation, risk mitigation and progress monitoring.</p>        
-        <ul>
-            <li>ITIL</li>        
-            <li>Scripting</li>
-            <li>Unix (Solaris)</li>
-            <li>Quantitative and qualitative analytical skills</li>
-            <li>Incidents analisys</li>
-            <li>Problem recognition and solving skills</li>
-        </ul>
+        <p><b>Produção e operação de sistemas mediadores (Ericsson Multi Mediation) em ambiente de telecomunicações.</p>
+        <p>Responsável pela integração dos sistemas OSS/BSS garantindo e validando que a correta coleta de todos os elementos de redes, formatação, agregação, duplicidades e entrega de CDRs (<i>Call Data Records</i>) para os sistemas de apoio ao negócio (BSS).</p>
+        <p>Gestão de tickets de incidentes, toubleshooting, validação técnica de RDMs, implementação e monitorização de entregas em ambiente produtivo.</p>
+        <p>Desenvolvimento de scripts que fornecessem soluções definitivas ou de contorno garantindo a correta operação dos serviços.</p>        
+        <br>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, Solaris, SysAdm, Automation, Script, Bash, KSH, AWK, Control-M, Application Support, Data Analysis, OSS, BSS, Network provisioning, Telco, Mediation, ITSM, ITIL, Ericsson</b></p>
         
 projects:
     title: Projetos Pessoais e Acadêmicos
     intro: |
-        <p> Esta seção exibe projetos pessoais e acadêmicos realizados durante meus estudos de mestrado em Engenharia de Software. Esta sessão lista também, meu projeto de tese sobre automação da categorização de ticktes de incidentes no processo de Gerenciamento de Incidentes em ITSM.</p>   
+        <p> Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</p>   
     assignments:
       - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
         link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
