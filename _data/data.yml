@@ -75,11 +75,11 @@ experiences:
       details: |
         <p><b>SME da cadeia de tarifação sistema Ericsson BSCS-IX</b> (módulos FIH, PRIH, RIH, PCCH, CCH, RLH)</p>
         <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
-        <p>Representante técnico em <i>Technical Advosry Board</i> (TAB) durante o processo de gerenciamento de mudanças, definindo estratégias de <i>rollout</i> e participando de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
-        <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting).</p>
-        <p>Atendimento de solicitações pontuais dos times de negócios quanto a extração de dados, formatação e carregamento em base de dados (processo ETL).</p> 
+        <p><i>Application Manager</i> responsável por definir estratégias de <i>rollout</i> e de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio através do processo de <i>Change-Advisory Board</i> (CAB) de gerenciamento de mudanças.</p>
+        <p>Definição e criação de ferramentas de monitoração de aplicações e ambiente através de coleta e análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting).</p>
+        <p>Atendimento de solicitações pontuais dos times de negócios, extração de dados, formatação e <i>load</i> em base de dados (processo ETL).</p> 
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Ericsson, BSCS-IX</b></p>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ETL, ITIL, Ericsson, BSCS-IX</b></p>
           
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
