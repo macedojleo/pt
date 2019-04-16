@@ -85,10 +85,10 @@ experiences:
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>Consultor</b> em sistemas de suporte ao negócio de telecomunicações (BSS) da cadeia de <i>rating</i> convergente <b>OPSC GOLD</b></p>
-        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente, aos ciclos de faturamento.</p>
-        <p>Gerenciamento de tickets de incidentes, priorização de atendimento e análise de solicitações das equipes de negócios, <i>Troubleshooting</i>, gestão de disponibilidade e validação de mudanças (Análise técnica, mitigação de riscos e definicação de estratégias de rollout) de acordo com às práticas ITIL.</p>
-        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> de monitoração, administração de ambientes Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo), <i>backup</i> e otimização de uso de recursos computacionais através de análise histórica de métricas de tráfego.</p>
+        <p><b>Consultor</b> em sistemas de suporte ao negócio de telecomunicações (BSS) da cadeia de <i>rating</i> convergente <b>OPSC GOLD</b> da operadora <b>TIM Brasil</b></p>
+        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente os ciclos de faturamento.</p>
+        <p>Gerenciamento de tickets de incidentes, priorização de atendimento, análise de solicitações de negócios, <i>Troubleshooting</i>, gestão de disponibilidade e validação de mudanças (Análise técnica, mitigação de riscos e definicação de estratégias de rollout) de acordo com às práticas ITIL.</p>
+        <p>Automatização de processos (Shell e Perl <i>scripting</i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> de monitoração, administração de ambientes Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo), <i>backup</i> e otimização de uso de recursos computacionais através de análise histórica de métricas de tráfego.</p>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
@@ -96,10 +96,10 @@ experiences:
       time: 2008 - 2009
       company: EGS (Ericsson group), São Paulo - Brazil
       details: |
-        <p><b>Produção e operação de sistemas mediadores (Ericsson Multi Mediation) em ambiente de telecomunicações.</p>
-        <p>Responsável pela integração dos sistemas OSS/BSS garantindo e validando que a correta coleta de todos os elementos de redes, formatação, agregação, duplicidades e entrega de CDRs (<i>Call Data Records</i>) para os sistemas de apoio ao negócio (BSS).</p>
+        <p><b>Produção e operação de sistemas mediadores (Ericsson Multi Mediation)</b> em ambiente de telecomunicações (Operadora TIM Brasil).</p>
+        <p>Responsável pela integração dos sistemas OSS/BSS garantindo e validando que a correta coleta de todos os elementos de redes, formatação, agregação, <i>check</i> de duplicidades e entrega de CDRs (<i>Call Data Records</i>) para os sistemas de apoio ao negócio (BSS).</p>
         <p>Gestão de tickets de incidentes, toubleshooting, validação técnica de RDMs, implementação e monitorização de entregas em ambiente produtivo.</p>
-        <p>Desenvolvimento de scripts que fornecessem soluções definitivas ou de contorno garantindo a correta operação dos serviços.</p>        
+        <p>Desenvolvimento de scripts que fornecessem soluções definitivas ou de contorno que garantissem a correta operação dos serviços.</p>        
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, Solaris, SysAdm, Automation, Script, Bash, KSH, AWK, Control-M, Application Support, Data Analysis, OSS, BSS, Network provisioning, Telco, Mediation, ITSM, ITIL, Ericsson</b></p>
         
