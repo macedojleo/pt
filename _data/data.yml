@@ -72,41 +72,24 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brazil
       details: |
-        <p><b>BSCS iX Rating modules</b> (FIH, PRIH, RIH, PCCH, CCH, RLH) administration, ensuring performance and quality of the technical platform, servers and applications besides Vendor's, Dev Team, and QA Cooperation.</p>
-        <p>Effective <b>Incident Management</b> from whole life cycle tickets since start through resolution with partnering among Prd, Dev, and Configuration teams to determine root causes and driving to rigorous <b>Problem Management</b> to follow through on actions.</p>
-        <p>Main roles were: <b>Workload prioritization assignments</b>, <b>resolve</b> any <b>conflicts</b> that may arise, proactive scheduling (<b>automation</b>) for the <b>critical tasks</b>, monitoring performance and faults (<b>Trouble-Ticketing</b>) related to Rating chain and Bill Checkout process,
-        Deploying Product Catalogue, Catalogue Configuration, Rate Plans, and Fixes, as well evaluating risk and technical RFC (Request for Change) impacts, Change Advisory Board (CAB) participate.</p>
-        <p>Partner with business teams (revenue assurance and financial billing areas), CDR traffic analysis <b>metrics</b> such as charges (Voice/SMS/3G/4G/Other services), Call Types (MOC,MTC,Roaming,Transit), and by locations. Customize data extraction procedures and dashboards maintaining (Google Charts)</p>
- 
-        <ul> 
-            <li>Strong Unix (HP-UX)/Linux (RedHat) Administration skills</li>
-            <li>Automation Job Development</li>
-            <li>Strong Scripting Skills</li>
-            <li>Control-M Scheduler Tool</li>
-            <li>Oracle SQL</li>
-            <li>Log Application Analysis</li>
-            <li>Traffic Analysis (data analysis)</li>
-        </ul>
+        <p><b>SME da cadeia de tarifação sistema Ericsson BSCS-IX</b> (módulos FIH, PRIH, RIH, PCCH, CCH, RLH)</p>
+        <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
+        <p>Validação ténica no proesso de gerenciamento de mudanças, nomeado representante técnico em <i>Technical Advosry Board</i> (TAB) para validação pré implantação, definição de estratégias de <i>rollout</i> até o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
+        <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting)</p>
+        <p>Extração de relatórios complementares a BI, auxiliando equipes de negócios através de extração de dados, formatação e carregamento em base de dados (processo ETL)</p> 
+        <p>Etiquetas:</p>
+        <p>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</p> 
           
     - role: BSS (Telco) IT Consultant
       time: 2009 - 2014
       company: Orga Systems (acquired by Redknee), Rio de Janeiro - Brazil
       details: |
-        <p><b>OPSC GOLD</b> end-to-end <b>3rd level Production Support</b> Rating and customer care (charge notifications) systems.</p>
-        <p>Incident management (ticketing), Problem management (Trouble-Ticketing) and Change management (RFC risk analysis, support for business impact, technical validation, and progress monitoring) according to the ITSM best practices (ITIL).</p>
-        <p>Strong knowledge of both, technical and business flows, as well a <b>strong focus on customer experience, service quality, development, and support </b> a collaborative relationship between the technical team and business team.
-        Automating and scheduling operational tasks, monitoring applications performance, hardware resources consumption, and faults.</p>
-        
-        
-        <ul>
-            <li>Quantitative and Qualitative Analytical Skills</li>        
-            <li>Automation Job Development</li>
-            <li>Scripting</li>
-            <li>Control-M Scheduler Tool</li>
-            <li>SQL Procedures</li>
-            <li>Strong Unix (HP-UX)/Linux Administration skills</li>
-            <li>Assist with User Acceptance Test (UAT) Process</li>
-        </ul>
+        <p><b>Consultor/analista de produção em sistemas de suporte ao negócio de telecomunicação (BSS)<b> da cadeia de <i>rating</i> convergente (sistema <b>OPSC GOLD</b>)</p>
+        <p>Suporte às áreas de negócio e garantia de entrega de serviços da cadeia de tarifação, anulando ou reduzindo impactos aos ciclos de <i>Billing</i> e faturamento.</p>
+        <p>Gerenciamento de tickets de incidente, análise de negócios (solicitações), problemas (<i>Troubleshooting</i>) e mudanças (Análise técnica, mitigação de riscos e definicação de melhor estratégia para rollout), conforme práticas ITIL.</p>
+        <p>Automatização de processos (Shell e Perl <i>scripting<i>), mapeamento e documentação operacional de processos, administração de ambiente Unix (HP-UX)/Linux (RedHat), definição de politíca de retenção de dados (expurgo) e <i>backup</i>, controle de utilização de recursos e processamento (aumento e redução de instancias de processos sob-demanda).</p>
+        <p>Etiquetas:</p>
+        <p>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL</p> 
         
     - role: Production Analyst
       time: 2008 - 2009
