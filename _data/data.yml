@@ -74,7 +74,7 @@ experiences:
       details: |
         <p><b>SME da cadeia de tarifação sistema Ericsson BSCS-IX</b> (módulos FIH, PRIH, RIH, PCCH, CCH, RLH)</p>
         <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
-        <p>Validação ténica no proesso de gerenciamento de mudanças, nomeado representante técnico em <i>Technical Advosry Board</i> (TAB) para validação pré implantação, definição de estratégias de <i>rollout</i> até o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
+        <p>Representante técnico em <i>Technical Advosry Board</i> (TAB) durante o processo de gerenciamento de mudanças, definindo estratégias de <i>rollout</i> e participando de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio.</p>
         <p>Monitoramento diário da plataforma através de análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting)</p>
         <p>Extração de relatórios complementares a BI, auxiliando equipes de negócios através de extração de dados, formatação e carregamento em base de dados (processo ETL)</p> 
         <p>Etiquetas:</p>
