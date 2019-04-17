@@ -120,9 +120,9 @@ projects:
         link: "https://github.com/macedojleo/COSNFLIX"
         tagline: "Serviço de Streaming de Vídeo baseado em uma infraestrutura de microserviços (docker containers)"
 
-      - title: Infraestrutura web server (Apache, MySql e Python Django) em arquitetura de microserviços (Containers) com Ansible
+      - title:Web server + microserviços (Containers) + Ansible
         link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
-        tagline: "Infraestrtura de micro serviços com (Apache, Python Django, Nginx e mysql) baseado em containers (docker) utilizando Ansible como CI"
+        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
     title: Cursos Livres
