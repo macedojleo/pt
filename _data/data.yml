@@ -84,12 +84,13 @@ experiences:
           
     - role: Consultor de TI - BSS (Telco)
       time: 2009 - 2014
-      company: Orga Systems, Rio de Janeiro - Brasil
+      company: Orga Systems, Rio de Janeiro - Brasil | Cliente: TIM Brasil
       details: |
-        <p><b>Consultor</b> em sistemas de suporte ao negócio de telecomunicações (BSS) da cadeia de <i>rating</i> convergente <b>OPSC GOLD</b> da operadora <b>TIM Brasil</b></p>
-        <p>Suporte às áreas de negócio e operações, garantindo a disponibilidade e confiabilidade dos processos de tarifação e consequentemente os ciclos de faturamento.</p>
-        <p>Gerenciamento de tickets de incidentes, priorização de atendimento, análise de solicitações de negócios, <i>Troubleshooting</i>, gestão de disponibilidade e validação de mudanças (Análise técnica, mitigação de riscos e definicação de estratégias de rollout) de acordo com às práticas ITIL.</p>
-        <p>Automatização de processos (Shell e Perl <i>scripting</i>), mapeamento e documentação de processos operacionais, identificação de pontos criticos e definição de <i>thresholds</i> de monitoração, administração de ambientes Unix/(HP-UX)/Linux(RedHat), definição de politíca de retenção de dados (expurgo), <i>backup</i> e otimização de uso de recursos computacionais através de análise histórica de métricas de tráfego.</p>
+        <p><b>Consultor de tecnologia e analista de produção (operations team)</b>, responsável em garantir o máximo tempo de disponibilidade do sistema, em conformidade aos acordos de níveis de serviços e indicadores de performance.</p>
+        <p>Controle e atendimento da fila (backlog) de tickets de suporte nível 3 para incidentes, solicitações e problemas (<i>Troubleshooting</i>).</p>
+        <p>Ponto focal para análise de riscos, melhores estratégias de rollout, implementação e validação técnica de entrega de novos projetos, em conformidade com o processo de gerenciamento de mudanças ITIL.</p>
+        <p><i>Scripting</i> (Bash, AWK, KSH) para desenvolvimento de jobs, monitoração e notificações personalizadas para automação e monitoração de processos em ambientes operativos <b>Unix (HP-UX)</b> e <b>Linux (RHEL)</b>.</p>
+        <p>Suporte às equipes de negócio, análises de métricas de processamento, disponibilização de dados estatísticos, criação e customização de relatórios pontuais (processo ETL).</p>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ITIL, Orga Systems</b></p>
         
