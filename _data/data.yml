@@ -46,10 +46,9 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Aproximadamente <b>9 anos atuando </b> em operações e consultoria de sistemas OSS/BSS em telecomunicações.</p>
-      <p>Nos últimos anos fez parte do time responsável de <b>especialistas</b> (SME) em assuntos técnicos da cadeia de tarifação dos sistemas de <i>Billing</i> Convergente Ericsson BSCS-IX e Rating convergente <b> Orga OPSC GOLD </b> nas maiores empresas de telecomunicações atuantes no Brasil.</p>
-      <p><b>Perfil técnico, senso de criticidade e resolução de problemas</b>, participando ativamente de processos de gestão de risco e gestão de crises, propondo soluções e/ou alternativas com foco na disponibilidade, entrega de serviços de TI e cumprimento de acordos de níveis de serviço (SLA.)</p>
-      <p>Atualmente, trabalha no desenvolvimento da tese de mestrado do curso de Engenharia de <i>Software</i> sobre a <b>utilização de técnicas de <i>Machine Learning</i> e Processamento de Lingugagem Natural (NLP) para automação dos processos de classificação de <i>tickets</i> de incidentes em ITSM</b>.</p>
+      <p><b>Consultor de tecnologia/Analista de sistemas</b> de telecomunicações OSS/BSS e entusiasta de ciência dos dados.</p>
+      <p>Nos últimos 10 anos, integrou parte dos times de produção (<i>operations</i>) e de consultores de tecnologia em duas das principais operadoras de telefonia móvel no Brasil, responsável por suportar às equipas de negócios e garantir tecnicamente que os processos do ciclo de vida dos serviços providos pelos sistemas mediadores, de tarifação (Rating) e emissão de emissão de faturas (Billing) atendessem às expectativas e acordos firmados com os usuários.</p>
+      <p>Atualmente, desenvolve o trabalho de dissertação para obtenção do grau de <b>mestre em Engenharia de Software</b>, demonstrando a utilização de técnicas de <i>Machine Learning</i> e processamento de linguagem natural (NLP) para automatizar parte do processo de classificação de tickets de incidentes em ITSM.</p>
       <br>
       <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf" download>aqui</a></b> CV no formato PDF (em português)</p>
 
@@ -73,13 +72,15 @@ experiences:
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
-        <p><b>SME da cadeia de tarifação sistema Ericsson BSCS-IX</b> (módulos FIH, PRIH, RIH, PCCH, CCH, RLH)</p>
-        <p>Resolução de conflitos e definição de prioridades para o atendimento de tickets e solicitações em conformidade aos acordos de níveis de serviço (SLA). </p>
-        <p><i>Application Manager</i> responsável por definir estratégias de <i>rollout</i> e de todo o processo de implantação, monitoração e coleta de evidências para validação de negócio através do processo de <i>Change-Advisory Board</i> (CAB) de gerenciamento de mudanças.</p>
-        <p>Definição e criação de ferramentas de monitoração de aplicações e ambiente através de coleta e análise de métricas de desempenho, logs e relatórios de consumo de recursos computacionais; Interação com fornecedores; Garantia de conformidade com as regras regulamentátorias (ANATEL) e desenvolvimento de ferramentas e automação de processos (Bash, KSH, AWK e Python scripting).</p>
-        <p>Atendimento de solicitações pontuais dos times de negócios, extração de dados, formatação e <i>load</i> em base de dados (processo ETL).</p> 
+        <p><b>Consultor/especialista</b> sistema Ericsson BSCS-IX para os módulos de tarifação (FIH, PRIH, RIH, PCCH, CCH, RLH).</p>
+        <p>Prover disponibilidade,confiabilidade e suporte em todos os serviços descritos no catálogo de serviços como sendo parte do escopo de tarifação.</p>
+        <p><i>Otimização das atividades relacionados ao processo de operação de serviços, conforme segue:</p>
+        <p>- <b>Gerenciamento de Mudanças</b>: <i>Change-Advisory Board</i> (CAB), análise técnica de riscos e validação de RDM (requisição de mudanças), estratégia de <i>rollout</i> em novas funcionalidades, <i>deploy</i> em ambiente produtivo, acompanhamento e coleta de evidências para efeito de validação (técnico e de negócios).</p>
+        <p>- <b>Gerenciamento de Incidentes</b>: Atendimento de <i>Incident tickets</i> e solicitações de usuários, atuar na resolução de conflitos de atividades e garantir o atendimento dos <i>tickets</i> em conformidade aos Acordos de Nível de Serviço (SLA).</p>
+        <p>- <b>Gerenciamento de Problemas</b>: Prevenção e identificação de possíveis problemas de forma pró-ativa, através de monitoração de logs, pontos críticos e comportamentos inesperados do sistema. Interface com fornecedores e equipa de desenvolvimento, garantindo rápida resolução. Desenvolviento de soluções de contorno para cenários de risco iminente ao negócio.</p> 
+        <p>Atendimento de demandas excecionais provenientes de equipas de negócios, como por exemplo: Extração e análise de dados, formatação e disponibilização de informações através de relatórios pontuais (Processo ETL), automação de processos (scripting) e desenvolvimento de Dashboards sob demanda.</p> 
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, Application Support, Data Analysis, BSS, Telco, billing, rating, ITSM, ETL, ITIL, Ericsson, BSCS-IX</b></p>
+        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, BSS, Billing, Rating, ETL, ITIL, Ericsson, BSCS-IX</b></p>
           
     - role: Consultor de TI - BSS (Telco)
       time: 2009 - 2014
