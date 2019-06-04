@@ -100,8 +100,7 @@ experiences:
       details: |
         <p>Validar toda a cadeia de processamento dos sistemas mediadores, desde a coleta dos dados (CDR's) dos elementos de rede, formatação e agregação dos registos, até a entrega dos arquivos XML aos sistemas de apoio a operação e suporte de telecomunicação <b>(OSS/BSS)</b>.</p>
         <p>Responsável pelas atividades que compõe os processos de ciclo de vida de serviços ITIL (Atendimento de <b>Incidentes/Solicitações</b>, validação técnica e implementação de <b>Mudanças</b> e análise/correção de <b>Problemas</b>).</p>
-        <p>Gestão de tickets de incidentes, troubleshooting, validação técnica de RDMs, implementação e monitorização de processos diretamente e indiretamente afetados pós mudança.</p>
-        <p>Criação e manutenção de uma nova cadeia de monitoração, devidamente documentada e com notificando às equipes de operações 24/7. </p>        
+        <p>Criação e manutenção de cadeia de monitoração e alarmes (BMC Control-M). Documentação (impacto, ações e procedimentos de acionamento) notificando às equipes de operações 24/7. </p>        
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, Solaris, SysAdm, Automation, Script, Bash, KSH, AWK, Control-M, Application Support, Data Analysis, OSS, BSS, Network provisioning, Telco, Mediation, ITSM, ITIL, Ericsson</b></p>
         
