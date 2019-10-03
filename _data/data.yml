@@ -46,12 +46,10 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p><b>Consultor de tecnologia, Analista de sistemas BSS, Engenheiro de Software e entusiasta de ciência dos dados</b>.</p>
-      <p>Nos últimos 10 anos, integrou parte dos times de produção (<i>operations</i>) e de consultores de tecnologia em duas das principais operadoras de telefonia móvel no Brasil: <b>TIM Brasil</b> e <b>Nextel Telecomunicações</b>.</p>
-      <p>Perfil Análitico, toma decisões sempre avaliando os riscos envolvidos, principalmente ao negócio. Por isso, prefere atuar sempre como uma interface entre às equipas de negócios e TI, garantindo que os serviços e processos de tecnologia estejam alinhados às expectativas e acordos firmados entre ambas as partes.</p>
-      <p>Atualmente, desenvolve o trabalho de dissertação para obtenção do grau de <b>mestre em Engenharia de Software</b>, demonstrando a utilização de técnicas de <i>Machine Learning</i> e processamento de linguagem natural (NLP) para automatizar parte do processo de classificação de tickets de incidentes em ITSM.</p>
-      <br>
-      <p><img src="/assets/certificates/pdf.png" height="42" width="42"> Aceda <b><a href="/assets/certificates/CV_Macedo_Leonardo_PT.pdf" download>aqui</a></b> CV no formato PDF (em português)</p>
+      <p>Nos últimos anos, integrou parte da equipe de operações em sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação de diversos projetos e migrações criticas como consultor de duas das principais operadoras de telefonia móvel em atuação no Brasil.</p>
+      <p>Responsável por garantir a disponibilidade, qualidade e entrega dos serviços de tarifação e mediadores, automatizando e desenvolvendo uma melhoria contínua dos processos operacionais em conformidade com os acordos de níveis de serviço e melhores práticas ITIL..</p>
+      <p>Automação (<i>scripting</i>), análise, suporte, identificação e mitigação de riscos operacionais e de negócio, auxiliando na definição de estratégias de <i>rollout</i> de novos projetos, implementação (<i>deploy</i>) de configurações e integração de sistemas.</p>
+      <p>Recentemente obteve o grau de mestre em Engenharia de Software pela Faculdade de Engenharia da Universidade do Porto.</p>
 
 education:
     - degree: M.Sc em Engenharia de Software (em progresso)
