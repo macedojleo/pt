@@ -47,9 +47,8 @@ career-profile:
     title: Apresentação
     summary: |
       <p>Nos últimos anos, integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação projetos de pequeno e grande impacto, além de migrações de ambientes operativos e de infraestrutra.</p>
-      <p>Responsável pelo gerenciamento de fila e atendimento de tickets de incidentes, resolução de problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL.</p>
       <p>Responsável pelo gerenciamento de fila e atendimento de tickets de incidentes, resolução de problemas (<i>troubleshooting</i>) e solicitações de serviços de acordo com as melhores práticas ITIL, desenvolveu atividades de <i>tecnhical support</i> alinhado ao plano tático e estratégico da área, monitorando e definindo ações para a melhoria contínua dos processos operacionais, identificando pontos críticos, desenvolvendo e administrando itens de monitoração e documentando os procedimentos à todos os níveis de atendimento operacional (N1,…Nx).</p>
-      <p>Recentemente, obteve o <b>grau de mestre em Engenharia de Software</b> pela Faculdade de Engenharia da Universidade do Porto através da elaboração do trabalho de dissertação sobre o uso de <b>Aprendizagem computacional para Gestão de Incidentes de TI</b> onde criou um modelo preditivo capaz de classificar tickets de indicente com certo grau de suporte ao time de <i>Service Desk</i>.</p>
+      <p>Recentemente, obteve o <b>grau de mestre em Engenharia de Software</b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de <b>Aprendizagem computacional (<i>Machine Learning</i>) para Gestão de Incidentes de TI</b>, criando um modelo preditivo capaz de classificar tickets de indicente com certo grau de suporte ao time de <i>Service Desk</i>.</p>
 
 education:
     - degree: M.Sc em Engenharia de Software (em progresso)
