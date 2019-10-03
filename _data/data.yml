@@ -47,9 +47,9 @@ career-profile:
     title: Apresentação
     summary: |
       <p>Nos últimos anos, integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação projetos de pequeno e grande impacto, além de migrações de ambientes operativos e de infraestrutra.</p>
-      <p>Responsável por garantir a disponibilidade, qualidade e entrega dos serviços de tarifação e mediadores, automatizando e desenvolvendo uma melhoria contínua dos processos operacionais em conformidade com os acordos de níveis de serviço e melhores práticas ITIL..</p>
-      <p>Automação (<i>scripting</i>), análise, suporte, identificação e mitigação de riscos operacionais e de negócio, auxiliando na definição de estratégias de <i>rollout</i> de novos projetos, implementação (<i>deploy</i>) de configurações e integração de sistemas.</p>
-      <p>Recentemente obteve o grau de mestre em Engenharia de Software pela Faculdade de Engenharia da Universidade do Porto.</p>
+      <p>Responsável pelo gerenciamento de fila e atendimento de tickets de incidentes, resolução de problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL.</p>
+      <p>Desenvolvimento de atividades de tecnhical support alinhado ao plano tático e estratégico da área, monitorando e definindo ações para a melhoria continua de processos operacionais, identificando pontos críticos, implementando e gerindo itens de monitoração, além de documentar os procedimentos a todos os níveis de atendimento operacional (N1, N2… Nx).</p>
+      <p>Recentemente obteve o grau de mestre em Engenharia de Software pela Faculdade de Engenharia da Universidade do Porto através da elaboração do trabalho de dissertação sobre o uso de Aprendizagem computacional para Gestão de Incidentes de TI.</p>
 
 education:
     - degree: M.Sc em Engenharia de Software (em progresso)
