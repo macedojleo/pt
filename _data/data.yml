@@ -33,15 +33,15 @@ sidebar:
       - idiom: Espanhol
         level: Profissional
         
-    interests:        
-    - item: Processamento de Linguagem Natural &amp Machine Learning
-      link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
-        
-    - item: Fotografia amadora &amp Viagens
-      link: https://www.instagram.com/leomacedobr/
-        
-    - item: Design gráfico &amp Diagramação 
-      link: https://issuu.com/macedoleonardo
+#    interests:        
+#    - item: Processamento de Linguagem Natural &amp Machine Learning
+#      link: https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/
+#        
+#    - item: Fotografia amadora &amp Viagens
+#      link: https://www.instagram.com/leomacedobr/
+#        
+#    - item: Design gráfico &amp Diagramação 
+#      link: https://issuu.com/macedoleonardo
         
 career-profile:
     title: Apresentação
