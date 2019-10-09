@@ -67,11 +67,10 @@ education:
         
 
 experiences:
-    - role: Analista de produção BSS - Sistema Ericsson BSCS
+    - role: Analista de produção BSS - Ericsson BSCS
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
-        <p>Analista de produção BSS - Sistema Ericsson BSCS</p>
         <ul>
          <li>Garantia de entrega e cumprimento do acordo de níveis de serviços (SLA) de tarifação (Rating).</li>
          <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
@@ -85,19 +84,23 @@ experiences:
          <li>Suporte <i>on call</i> 24x7</li>
         </ul>
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Linux (Rhel), Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, Ericsson BSCS, e Oracle 11G.</b></p>     
+        <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Linux (Rhel), Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, Ericsson BSCS, Oracle 11G.</b></p>     
     
-    - role: Consultor de TI - BSS (Telco)
+    - role: Consultor/analista de produção BSS (outsourcing)
       time: 2009 - 2014
       company: Orga Systems, Rio de Janeiro - Brasil
       details: |
-        <p><b>Consultor de tecnologia e analista de produção (<i>operations team</i>)</b>, responsável em garantir a conformidade aos acordos de níveis de serviços (atendimento de <i>tickets</i> e novos projetos) e indicadores de performance (tempo de disponibilidade do sistema).</p>
-        <p>Controle e atendimento da fila (backlog) de tickets de suporte nível 3 para incidentes, solicitações e problemas (<i>Troubleshooting</i>).</p>
-        <p>Ponto focal para análise de riscos, melhores estratégias de rollout, implementação e validação técnica de entrega de novos projetos, em conformidade com o processo de gerenciamento de mudanças ITIL.</p>
-        <p><i>Scripting</i> (Bash, AWK, KSH) para desenvolvimento de jobs, monitoração e notificações personalizadas para automação e monitoração de processos em ambientes operativos <b>Unix (HP-UX)</b> e <b>Linux (RHEL)</b>.</p>
-        <p>Suporte às equipes de negócio, análises de métricas de processamento, disponibilização de dados estatísticos, criação e customização de relatórios pontuais (processo ETL).</p>
+        <ul>
+        <li>Garantia de entrega e cumprimento do acordo de níveis de serviços (SLA) de tarifação (Rating).</li>
+        <li><i>Troubleshooting</i> de sistema, integração com times de desenvolvimento (DEV), QA e fornecedores.</li>
+        <li><i>Troubleshooting</i> e administração de ambiente operativo em ambiente Linux/Unix.</li>
+        <li>Automação de processos operacionais de monitoração, definição de <li>thresholds</li> e alarmes, backup, expurgo, configuração e preparação de ambiente.</li>
+        <li>Suporte às áreas de negócio (facturamento e garantia da receita), extração e consolidação de dados, análise de métricas de performance e relatórios.</li>
+        <li>Suporte ao processo de ETL, manutenção de <i>procedures</i> Oracle PL/SQL.</li>
+        <li>Suporte <i>on-Call</i> 24x7</li>
+        </ul>
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, SysAdm, Automation, Script, Bash, KSH, AWK, Perl, Control-M, Oracle, SQL, PL/SQL, Data Analysis, BSS, Telco, Billing, Rating, ITSM, ITIL</b></p>
+        <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle/Sun Solaris, Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, BSCS, Oracle 11G</b></p>
         
     - role: Analista de Produção
       time: 2008 - 2009
@@ -109,26 +112,26 @@ experiences:
         <br>
         <p><img src="/assets/certificates/label.png"> <b>Unix, Solaris, SysAdm, Automation, Script, Bash, KSH, AWK, Control-M, Application Support, Data Analysis, OSS, BSS, Network provisioning, Telco, Mediation, ITSM, ITIL, Ericsson</b></p>
         
-projects:
-    title: Projetos Pessoais e Acadêmicos
-    intro: |
-        <p><b>Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</b></p>   
-    assignments:
-      - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
-        link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
-        tagline: "Tese de M.Sc em Engenharia de Software"
-        
-      - title: BDH - Monitore facilmente o consumo de FS em sistemas Unix e Linux
-        link: "https://macedojleo.github.io/BDH/"
-        tagline: "Um jeito fácil de monitorar o consumo de FS em sistemas Unix e Linux através de limiares configuráveis e alarmes com Slack & Webhook"
-
-      - title: CosnFlix
-        link: "https://github.com/macedojleo/COSNFLIX"
-        tagline: "Serviço de Streaming de Vídeo baseado em uma infraestrutura de microserviços (docker containers)"
-
-      - title: Web server + microserviços (Containers) + Ansible
-        link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
-        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
+#projects:
+#    title: Projetos Pessoais e Acadêmicos
+#    intro: |
+#        <p><b>Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</b></p>   
+#    assignments:
+#      - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
+#        link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
+#        tagline: "Tese de M.Sc em Engenharia de Software"
+#        
+#      - title: BDH - Monitore facilmente o consumo de FS em sistemas Unix e Linux
+#        link: "https://macedojleo.github.io/BDH/"
+#        tagline: "Um jeito fácil de monitorar o consumo de FS em sistemas Unix e Linux através de limiares configuráveis e alarmes com Slack & Webhook"
+#
+#      - title: CosnFlix
+#        link: "https://github.com/macedojleo/COSNFLIX"
+#        tagline: "Serviço de Streaming de Vídeo baseado em uma infraestrutura de microserviços (docker containers)"#
+#
+#      - title: Web server + microserviços (Containers) + Ansible
+#        link: "https://github.com/macedojleo/DOCKER_ANSIBLE"
+#        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
     title: Cursos Livres
