@@ -118,18 +118,18 @@ experiences:
         <br>
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle 10g, Sun Solaris, Bash, AWK, Perl, ITIL, MS Office Suite, BMC Remedy, BSS, OSS, Ericsson, EMM, EMA, OLM, Oracle 10g</b></p>
         
-#projects:
-#    title: Projetos Pessoais e Acadêmicos
-#    intro: |
-#        <p><b>Esta seção exibe projetos pessoais e acadêmicos realizados durante o curso de mestrado em Engenharia de Software.</b></p>   
-#    assignments:
-#      - title: Automatização de categorização de tickets de incidentes com processamento de Linguagem Natural e Aprendizado de Máquina.
-#        link: "https://macedojleo.github.io/Aprendizagem-Computacional-em-ITSM/"
-#        tagline: "Tese de M.Sc em Engenharia de Software"
-#        
-#      - title: BDH - Monitore facilmente o consumo de FS em sistemas Unix e Linux
-#        link: "https://macedojleo.github.io/BDH/"
-#        tagline: "Um jeito fácil de monitorar o consumo de FS em sistemas Unix e Linux através de limiares configuráveis e alarmes com Slack & Webhook"
+projects:
+    title: Projetos
+    intro: |
+        <p><b>Projetos acadêmicos.</b></p>   
+    assignments:
+      - title: Dissertação para obtenção de grau de mestre: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
+        link: "https://repositorio-aberto.up.pt/handle/10216/122182"
+        tagline: "Software Engineering - M.Sc"
+        
+      - title: Talk-A-Bit 2019 - Conferência de tecnologia
+        link: "http://talkabit.org/"
+        tagline: "Booklet - design e concepção"
 #
 #      - title: CosnFlix
 #        link: "https://github.com/macedojleo/COSNFLIX"
@@ -168,24 +168,24 @@ skills:
 
     toolset:
       - name: Scripting - Shell Script, Bash, KSH, Python
-        level: 90%
+        level: 80%
         
       - name: Administração Unix & Linux
-        level: 85%
-      
-      - name: Git & GitHub (hospedagem de código-fonte e controle de versionamento de software) 
-        level: 80%
-        
-      - name: Linguagens de marcação de texto (XML, HTML, Markdown, LaTex) 
-        level: 80%
-        
-      - name: Oracle SQL 
         level: 75%
+      
+      - name: Versionamento | Git & GitHub
+        level: 50%
+        
+      - name: Marcação de texto (XML, HTML, Markdown, LaTex, Json) 
+        level: 70%
+        
+      - name: SQL 
+        level: 65%
         
       - name: Ericsson BSCS (Sistema de Billing end-to-end)
-        level: 75%
+        level: 70%
         
-      - name: Docker & Docker compose (Plataforma para containers e multi-containers) 
+      - name: Docker & Docker compose  
         level: 75%
 
       - name: BMC Control-M (Job Scheduler)
