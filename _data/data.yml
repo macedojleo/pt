@@ -67,19 +67,26 @@ education:
         
 
 experiences:
-    - role: Especialista de TI - BSS (Ericsson BSCS)
+    - role: Analista de produção BSS - Sistema Ericsson BSCS
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
-        <p><b>Consultor de TI </b> sistema Ericsson BSCS-IX para os módulos de tarifação (FIH, PRIH, RIH, PCCH, CCH, RLH).</p>
-        <p>Otimização das atividades relacionados ao processo de operação de serviços, conforme segue:</p>
-        <p>- <b>Gerenciamento de Mudanças</b>: <i>Change-Advisory Board</i> (CAB), análise técnica de riscos e validação de RDM (requisição de mudanças), estratégia de <i>rollout</i> em novas funcionalidades, <i>deploy</i> em ambiente produtivo, acompanhamento e coleta de evidências para efeito de validação (técnico e de negócios).</p>
-        <p>- <b>Gerenciamento de Incidentes</b>: Atendimento de <i>Incident tickets</i> e solicitações de usuários, atuar na resolução de conflitos de atividades e garantir o atendimento dos <i>tickets</i> em conformidade aos Acordos de Nível de Serviço (SLA).</p>
-        <p>- <b>Gerenciamento de Problemas</b>: Prevenção e identificação de possíveis problemas de forma pró-ativa, através de monitoração de logs, pontos críticos e comportamentos inesperados do sistema. Interface com fornecedores e equipa de desenvolvimento, garantindo rápida resolução e redução de impactos ao negócio. Desenvolvimento de soluções de contorno para cenários de risco iminente ao negócio.</p> 
-        <p>Atendimento de demandas excecionais, como por exemplo: Extração e análise de dados, formatação e disponibilização de informações através de relatórios pontuais (Processo ETL), automação de processos (scripting) e desenvolvimento de Dashboards sob demanda.</p> 
+        <p>Analista de produção BSS - Sistema Ericsson BSCS</p>
+        <ul>
+         <li>Garantia de entrega e cumprimento do acordo de níveis de serviços (SLA) de tarifação (Rating).</li>
+         <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
+         <li><i>Change-advisory board Technical member</i> (CAB) no processo de revisão, priorização e aprovação de solicitações de mudanças</li>
+         <li>Monitoria e ações preventivas baseado na análise de métricas de performance de serviços e de ambiente.</li>
+         <li>Definição de estratégia na implementação de novas configurações e serviços, análise de impactos técnicos e funcionais, monitoração e coleta de evidências para validação na perspetiva de negócio.</li>
+         <li>Garantia de conformidade com os processos regulatórios e indicadores de qualidade ANATEL (Agência Nacional de Telecomunicações).</li>
+         <li><i>Troubleshooting</i> e administração de sistema operativo baseado em Unix (Rhel, HP-UX, Sun-Solaris).</li>
+         <li>Integração com equipes de desenvolvimento e fornecedores (Troubleshooting aplicações).</li>
+         <li>Automação de processos operacionais (<i>scripting</i>) e <i>job scheduling</i> (Control-M)</li>
+         <li>Suporte <i>on call</i> 24x7</li>
+        </ul>
         <br>
-        <p><img src="/assets/certificates/label.png"> <b>Unix, HP-UX, Linux, RedHat, Bash, KSH, AWK, Python, Control-M, Oracle, SQL, PL/SQL, BSS, Billing, Rating, ETL, ITIL, Ericsson, BSCS-IX</b></p>
-          
+        <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Linux (Rhel), Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, Ericsson BSCS, e Oracle 11G.</b></p>     
+    
     - role: Consultor de TI - BSS (Telco)
       time: 2009 - 2014
       company: Orga Systems, Rio de Janeiro - Brasil
