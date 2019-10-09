@@ -123,9 +123,9 @@ projects:
     intro: |
         <p><b>Projetos acadêmicos.</b></p>   
     assignments:
-      - title: Dissertação para obtenção de grau de mestre: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
+      - title: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
         link: "https://repositorio-aberto.up.pt/handle/10216/122182"
-        tagline: "Software Engineering - M.Sc"
+        tagline: "Teste para obetenção de grau de mestre (MSc) em Software Engineering"
         
       - title: Talk-A-Bit 2019 - Conferência de tecnologia
         link: "http://talkabit.org/"
