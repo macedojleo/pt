@@ -180,33 +180,33 @@ skills:
     toolset:
       - name: Scripting - Shell Script, Bash, KSH, Python
         level: 80%
-        
-      - name: Administração de sistema operativo - Unix & Linux
+
+      - name: Administração de sistemas operativos - Unix & Linux
         level: 75%
-      
-      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
-        level: 50%
+
+      - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
+        level: 75%
         
+      - name: SGBDR - SQL (Oracle, MySQL)
+        level: 70%
+        
+      - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
+        level: 70%
+        
+      - name: UI/UX design (proto.io, Adobe Photoshop) 
+        level: 65% 
+
       - name: Virtualização (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
         level: 60%
         
       - name: Controle de Versionamento - Git & Github
         level: 60%
         
-      - name: SGBDR - SQL (Oracle, MySQL)
-        level: 70%
-
-      - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
-        level: 70%
-        
-      - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
-        level: 75%
+     - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
+        level: 60%
           
       - name: Mongo DB – Atlas, Compass, aggregation...
-        level: 55% 
-        
-      - name: UI/UX design (proto.io, Adobe Photoshop) 
-        level: 65% 
+        level: 50% 
 
 #footer: >
 #    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
