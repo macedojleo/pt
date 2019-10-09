@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Nos últimos anos, integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação de diversos projetos, além de migrações de ambientes operacionais Linux e Unix e de infraestrutura.</p>
+      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação de diversos projetos, além de migrações de ambientes operacionais Linux e Unix e de infraestrutura.</p>
       <p>Teve como principais responsabilidades a gestão da fila e atendimento de tickets de incidentes, problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL e acordos de nível de serviço (SLA).</p>
       <p>Desenvolveu também atividades de tecnhical support alinhado ao plano tático e estratégico da área, estabelecendo e implementando scripts de monitoração, automação de processos de administração e ações de melhoria contínua dos processos operacionais, documentando todos os procedimentos aos times de suporte de primeiro nível.</p>
       <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI, criando um modelo preditivo capaz de classificar tickets de incidente com certo grau de suporte ao time de Service Desk.</p>
@@ -119,9 +119,9 @@ experiences:
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle 10g, Sun Solaris, Bash, AWK, Perl, ITIL, MS Office Suite, BMC Remedy, BSS, OSS, Ericsson, EMM, EMA, OLM, Oracle 10g</b></p>
         
 projects:
-    title: Projetos
+    title: PROJETOS ACADÊMICOS
     intro: |
-        <p><b>Projetos acadêmicos.</b></p>   
+        <p><b>Projetos desenvolvidos durante o curso de Mestrado de Engenharia de Software</b></p>   
     assignments:
       - title: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
         link: "https://repositorio-aberto.up.pt/handle/10216/122182"
@@ -129,7 +129,7 @@ projects:
         
       - title: Talk-A-Bit 2019 - Conferência de tecnologia
         link: "http://talkabit.org/"
-        tagline: "Design e concepção de booklet para conferência anual de tecnologia realizada na Faculdade de Enegenharia da Universidade do Porto em Portugal."
+        tagline: "Design e concepção de booklet para conferência anual de tecnologia realizada na Faculdade de Engenharia da Universidade do Porto em Portugal."
 #
 #      - title: CosnFlix
 #        link: "https://github.com/macedojleo/COSNFLIX"
@@ -140,7 +140,7 @@ projects:
 #        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
-    title: Cursos Livres
+    title: CURSOS LIVRES
       
     papers:
       - title: "ITIL V4 - Foundations"
@@ -148,68 +148,65 @@ publications:
     
       - title: "Mongodb - CLuster Administration"
         authors: Mongo University | 2019
-        conference: <a href="/assets/certificates/M103.pdf">Download</a>
+        conference: <a href="/assets/certificates/M103.pdf">Download do cerfificado</a>
         
       - title: "Mongodb - Aggregation Framework"
         authors: Mongo University | 2019
-        conference: <a href="/assets/certificates/M121.pdf">Download</a>
+        conference: <a href="/assets/certificates/M121.pdf">Download do cerfificado</a>
         
       - title: "Mongodb - Basics"
         authors: Mongo University | 2019
-        conference: <a href="/assets/certificates/M001.pdf">Download</a>
+        conference: <a href="/assets/certificates/M001.pdf">Download do cerfificado</a>
         
       - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, Portugal | 2018
-        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download</a>
+        conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download do cerfificado</a>
 
       - title: "Oracle Database 11G Administrator"
         authors: Ka solution - São Paulo, Brazil | 2015
-        conference: <a href="/assets/certificates/Oracle.pdf">Download</a>
+        conference: <a href="/assets/certificates/Oracle.pdf">Download do cerfificado</a>
 
       - title: "Cisco CCNA V3"
         authors: Senac - São Paulo, Brazil | 2006
-        conference: <a href="/assets/certificates/CCNA.pdf">Download</a>
+        conference: <a href="/assets/certificates/CCNA.pdf">Download do cerfificado</a>
         
       - title: "Linux System Administrator"
         authors: Senac - São Paulo, Brazil | 2006
-        conference: <a href="/assets/certificates/Linux.pdf">Download</a>
+        conference: <a href="/assets/certificates/Linux.pdf">Download do cerfificado</a>
 
 skills:
-    title: Habilidades &amp Proeficiência
+    title: COMPETÊNCIAS TÉCNICAS
 
     toolset:
       - name: Scripting - Shell Script, Bash, KSH, Python
         level: 80%
         
-      - name: Administração Unix & Linux
+      - name: Administração de sistema operativo - Unix & Linux
         level: 75%
       
-      - name: Versionamento | Git & GitHub
+      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
         level: 50%
         
-      - name: Marcação de texto (XML, HTML, Markdown, LaTex, Json) 
+      - name: Virtualização (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
+        level: 60%
+        
+      - name: Controle de Versionamento - Git & Github
+        level: 60%
+        
+      - name: SGBDR - SQL (Oracle, MySQL)
+        level: 70%
+
+      - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
         level: 70%
         
-      - name: SQL 
-        level: 65%
-        
-      - name: Ericsson BSCS (Sistema de Billing end-to-end)
-        level: 70%
-        
-      - name: Docker & Docker compose  
+      - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
         level: 75%
-
-      - name: BMC Control-M (Job Scheduler)
-        level: 70%
-        
-      - name: Ansible (gerenciamento de configuração e implementação de aplicativos)
-        level: 65%
           
-      - name: Python Pandas (Data Analysis)
-        level: 65% 
+      - name: Mongo DB – Atlas, Compass, aggregation...
+        level: 55% 
         
-      - name: Python NLTK (Natural Language Processing)
+      - name: UI/UX design (proto.io, Adobe Photoshop) 
         level: 65% 
 
-footer: >
-    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
+#footer: >
+#    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
