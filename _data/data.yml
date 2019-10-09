@@ -125,11 +125,11 @@ projects:
     assignments:
       - title: Aprendizagem Computacional para Gestão de Incidentes em Tecnologia da Informação
         link: "https://repositorio-aberto.up.pt/handle/10216/122182"
-        tagline: "Teste para obetenção de grau de mestre (MSc) em Software Engineering"
+        tagline: "Dissertação para obtenção de grau de mestre em Engenharia de Software pela Faculdade de Engenharia da Universidade do Porto em Portugal."
         
       - title: Talk-A-Bit 2019 - Conferência de tecnologia
         link: "http://talkabit.org/"
-        tagline: "Booklet - design e concepção"
+        tagline: "Design e concepção de booklet para conferência anual de tecnologia realizada na Faculdade de Enegenharia da Universidade do Porto em Portugal."
 #
 #      - title: CosnFlix
 #        link: "https://github.com/macedojleo/COSNFLIX"
@@ -143,6 +143,21 @@ publications:
     title: Cursos Livres
       
     papers:
+      - title: "ITIL V4 - Foundations"
+        authors: Udemy / Dion Training | 2019
+    
+      - title: "Mongodb - CLuster Administration"
+        authors: Mongo University | 2019
+        conference: <a href="/assets/certificates/M103.pdf">Download</a>
+        
+      - title: "Mongodb - Aggregation Framework"
+        authors: Mongo University | 2019
+        conference: <a href="/assets/certificates/M121.pdf">Download</a>
+        
+      - title: "Mongodb - Basics"
+        authors: Mongo University | 2019
+        conference: <a href="/assets/certificates/M001.pdf">Download</a>
+        
       - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, Portugal | 2018
         conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download</a>
@@ -150,10 +165,6 @@ publications:
       - title: "Oracle Database 11G Administrator"
         authors: Ka solution - São Paulo, Brazil | 2015
         conference: <a href="/assets/certificates/Oracle.pdf">Download</a>
-
-      - title: "ITIL V3 - Foundations"
-        authors: Ka Solution - São Paulo, Brazil | 2014
-        conference: <a href="/assets/certificates/ITIL_V3.pdf">Download</a>
 
       - title: "Cisco CCNA V3"
         authors: Senac - São Paulo, Brazil | 2006
