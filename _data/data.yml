@@ -145,7 +145,7 @@ publications:
     papers:
       - title: "ITIL V4 - Foundations"
         authors: Udemy / Dion Training | 2019
-    
+        
       - title: "Mongodb - CLuster Administration"
         authors: Mongo University | 2019
         conference: <a href="/assets/certificates/M103.pdf">Download do cerfificado</a>
@@ -161,7 +161,7 @@ publications:
       - title: "Python in the Context of Engineering"
         authors: NTITEC (FEUP) - Porto, Portugal | 2018
         conference: <a href="/assets/certificates/PYTHON_ Macedo_en.pdf">Download do cerfificado</a>
-
+        
       - title: "Oracle Database 11G Administrator"
         authors: Ka solution - São Paulo, Brazil | 2015
         conference: <a href="/assets/certificates/Oracle.pdf">Download do cerfificado</a>
@@ -180,10 +180,10 @@ skills:
     toolset:
       - name: Scripting (Shell Script, Bash, KSH, Python)
         level: 80%
-
+        
       - name: Administração de sistemas operativos (Unix & Linux)
         level: 75%
-
+        
       - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
         level: 75%
         
@@ -193,16 +193,19 @@ skills:
       - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
         level: 70%
         
+      - name: Ericsson BSCS (BSS Billing Convergent systems) 
+        level: 70%
+        
       - name: UI/UX design (proto.io, Adobe Photoshop) 
-        level: 65% 
-
+        level: 60% 
+        
       - name: Virtualização (Virtual Box, Vagrant) | Containers (Docker, Docker Compose, Swarm)
         level: 60%
         
       - name: Controle de Versionamento - Git & Github
         level: 60%
         
-     - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
+      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
         level: 60%
           
       - name: Mongo DB – Atlas, Compass, aggregation...
