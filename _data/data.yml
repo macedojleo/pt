@@ -178,10 +178,10 @@ skills:
     title: Competências
 
     toolset:
-      - name: Scripting - Shell Script, Bash, KSH, Python
+      - name: Scripting (Shell Script, Bash, KSH, Python)
         level: 80%
 
-      - name: Administração de sistemas operativos - Unix & Linux
+      - name: Administração de sistemas operativos (Unix & Linux)
         level: 75%
 
       - name: MS Office Suite (Word, Power Point, Excel (analítico, tabelas Pivot, vlookup)
