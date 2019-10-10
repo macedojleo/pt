@@ -119,7 +119,7 @@ experiences:
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle 10g, Sun Solaris, Bash, AWK, Perl, ITIL, MS Office Suite, BMC Remedy, BSS, OSS, Ericsson, EMM, EMA, OLM, Oracle 10g</b></p>
         
 projects:
-    title: PROJETOS ACADÊMICOS
+    title: Projetos Acadêmicos
     intro: |
         <p><b>Projetos desenvolvidos durante o curso de Mestrado de Engenharia de Software</b></p>   
     assignments:
@@ -140,7 +140,7 @@ projects:
 #        tagline: "Infraestrutura (Apache, Python Django, Nginx e MySql) com arquitetura de micro serviços baseado em containers (docker) utilizando Ansible como CI"
 
 publications:
-    title: CURSOS LIVRES
+    title: Cursos Livres
       
     papers:
       - title: "ITIL V4 - Foundations"
@@ -175,7 +175,7 @@ publications:
         conference: <a href="/assets/certificates/Linux.pdf">Download do cerfificado</a>
 
 skills:
-    title: COMPETÊNCIAS TÉCNICAS
+    title: Competências Técnicas
 
     toolset:
       - name: Scripting - Shell Script, Bash, KSH, Python
