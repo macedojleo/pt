@@ -205,7 +205,7 @@ skills:
      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
         level: 60%
           
-      - name: Mongo DB – Atlas, Compass, aggregation...
+      - name: Mongo DB – Atlas, Compass, Aggregation Framework
         level: 50%
 
 #footer: >
