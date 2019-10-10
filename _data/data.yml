@@ -13,7 +13,7 @@ sidebar:
     # Sidebar links
     email: macedojleo@gmail.com
     phone: 
-    website: macedojleo.github.io/pt #do not add http://
+    website: macedojleo.github.io #do not add http://
     linkedin: macedojleo
     github: macedojleo
     gitlab:
@@ -205,8 +205,8 @@ skills:
      - name: Python for data science (Pandas, Scikit-Learn, SciPy, mathplotlib)
         level: 60%
           
-      - name: Mongo DB – Atlas, Compass, Aggregation Framework
-        level: 50%
+      - name: Mongo DB – Atlas, Compass, aggregation...
+        level: 50% 
 
 #footer: >
 #    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
