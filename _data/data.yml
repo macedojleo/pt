@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo a entrega, disponibilidade e qualidade dos serviços, tendo participado da implementação de diversos projetos, além de migrações de ambientes operacionais Linux e Unix e de infraestrutura.</p>
+      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo disponibilidade, qualidade e entrega de serviços. Participou de importantes projetos ajudando na definição de estratégia de <i>rollout</i>, implementação, validação técnica e funcional, além de manutenções períodicas de ambientes operacionais (Linux/Unix) e de infraestrutura.</p>
       <p>Teve como principais responsabilidades a gestão da fila e atendimento de tickets de incidentes, problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL e acordos de nível de serviço (SLA).</p>
       <p>Desenvolveu também atividades de tecnhical support alinhado ao plano tático e estratégico da área, estabelecendo e implementando scripts de monitoração, automação de processos de administração e ações de melhoria contínua dos processos operacionais, documentando todos os procedimentos aos times de suporte de primeiro nível.</p>
       <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI, criando um modelo preditivo capaz de classificar tickets de incidente com certo grau de suporte ao time de Service Desk.</p>
