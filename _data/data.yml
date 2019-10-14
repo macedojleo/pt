@@ -190,7 +190,7 @@ skills:
       - name: SGBDR - SQL (Oracle, MySQL)
         level: 70%
         
-      - name: Marcação de texto, integração de sistemas, dados estruturados (XML, Json, CSV)
+      - name: Marcação de texto, dados estruturados (XML, Json, CSV)
         level: 70%
         
       - name: Ericsson BSCS (BSS Billing Convergent systems) 
@@ -211,5 +211,5 @@ skills:
       - name: Mongo DB – Atlas, Compass, aggregation...
         level: 50% 
 
-#footer: >
-#    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b></p>
+footer: >
+    <p align="center"><a href="https://macedojleo.github.io">[EN]</a> | <b>[PT]</b> </p>
