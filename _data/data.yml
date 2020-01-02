@@ -46,10 +46,10 @@ sidebar:
 career-profile:
     title: Apresentação
     summary: |
-      <p>Integrou parte da equipe de operações de sistemas de apoio ao negócio de telecomunicações (BSS), garantindo disponibilidade, qualidade e entrega de serviços. Participou de importantes projetos ajudando na definição de estratégia de <i>rollout</i>, implementação, validação técnica e funcional, além de manutenções períodicas de ambientes operacionais (Linux/Unix) e de infraestrutura.</p>
-      <p>Teve como principais responsabilidades a gestão da fila e atendimento de tickets de incidentes, problemas (troubleshooting) e solicitações de serviços de acordo com as melhores práticas ITIL e acordos de nível de serviço (SLA).</p>
-      <p>Desenvolveu também atividades de tecnhical support alinhado ao plano tático e estratégico da área, estabelecendo e implementando scripts de monitoração, automação de processos de administração e ações de melhoria contínua dos processos operacionais, documentando todos os procedimentos aos times de suporte de primeiro nível.</p>
-      <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI, criando um modelo preditivo capaz de classificar tickets de incidente com certo grau de suporte ao time de Service Desk.</p>
+      <p>Nos últimos anos, integrou parte da equipe de operações/Produção atuando como SME em soluções BSS (Business Support Systems) para telecomunicações.</p>
+      <p>Foi responsável por garantir a disponibilidade, confiabilidade, suporte e entrega de serviços de tarifação alinhado aos níveis de acordo de serviços (SLA) e melhores práticas ITIL, automatizando processos, identificando pontos de atenção e desenvolvendo soluções para melhoria contínua dos serviços de TI.</p>
+      <p>Desenvolveu atividades alinhadas ao plano tático e estratégico da companhia, suprindo demandas gerenciais pontuais e operacionais, automatizando, definindo thresholds, implementando monitorações e garantindo a execução das tarefas pelas equipes de N1.</p>
+      <p>Recentemente, obteve o <b> grau de mestre em Engenharia de Software </b> pela Faculdade de Engenharia da Universidade do Porto ao elaborar o trabalho de dissertação sobre o uso de Aprendizagem computacional (Machine Learning) para Gestão de Incidentes de TI.</p>
 
 education:
     - degree: Mestrado em Engenharia de Software
@@ -67,19 +67,19 @@ education:
         
 
 experiences:
-    - role: Analista de produção BSS - Ericsson BSCS
+    - role: Analista de produção BSS - Sistema Ericsson BSCS
       time: 2014 - 2017
       company: Nextel Telecomunicações, São Paulo - Brasil
       details: |
         <ul>
-         <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
-         <li><i>Change-advisory board Technical member</i> (CAB) no processo de revisão, priorização e aprovação de solicitações de mudanças</li>
-         <li>Monitoria e ações preventivas baseado na análise de métricas de performance de serviços e de ambiente.</li>
+         <li>Garantir a confiabilidade e entrega dos serviços de TI de acordo com SLA (<i>Framework</i> ITIL).</li>
+         <li>Atendimento de solicitações de serviços (usuários internos), <i>incident management</i> (<i>ticket support</i>, <i>disaster recovery</i>, <i>war room</i>) e <i>problem management</i> (<i>troubleshooting</i>, WA, <i>hotfix</i>).</li>
+         <li><i>Technical member</i> em <i>Change-advisory board</i> (CAB) durante o proceso de aprovaação de CR's (<i>change management</i>) - Análise de riscos funcionais e operacionais de novos projetos, features e correções; Definição de estratégias de <i>rollout</i>, validação, <i>follow-up</i> suporte.</li>
          <li>Definição de estratégia na implementação de novas configurações e serviços, análise de impactos técnicos e funcionais, monitoração e coleta de evidências para validação na perspetiva de negócio.</li>
-         <li>Garantia de conformidade com os processos regulatórios e indicadores de qualidade ANATEL (Agência Nacional de Telecomunicações).</li>
-         <li><i>Troubleshooting</i> e administração de sistema operativo baseado em Unix (Rhel, HP-UX, Sun-Solaris).</li>
-         <li>Interação com equipes de desenvolvimento e fornecedores).</li>
-         <li>Automação de processos operacionais (<i>scripting</i>) e <i>job scheduling</i> (Control-M)</li>
+         <li>Garantir a conformidade com os processos regulatórios (ANATEL) e auditórias internas.</li>
+         <li><i>Troubleshooting</i> e administração de sistemas operativos (operacionais) Unix (HP-UX) e Linux (Rhel).</li>
+         <li>Automação de processos operacionais (<i>scripting</i>) e <i>scheduling</i> (Control-M).</li>
+         <li>Suporte às equipes de negócios como faturamento, garantia de receita e contabil; Extração, formatação e agregação de múltiplos conjuntos de dados (SQL) utilizado como fonte de dados para Dashboards (Google charts) e relatórios pontuais.</li>
          <li>Suporte <i>on call</i> 24x7</li>
         </ul>
         <br>
