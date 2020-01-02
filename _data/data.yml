@@ -90,13 +90,15 @@ experiences:
       company: Orga Systems, Rio de Janeiro - Brasil
       details: |
         <ul>
-        <li>Garantia de conformidade ITIL (SLA e KPI) no atendimento de solicitações de serviço, tickets de incidentes e problemas.</li>
-        <li><i>Troubleshooting</i> de sistema, integração com times de desenvolvimento (DEV), QA e fornecedores.</li>
+        <li>Garantir a confiabilidade e entrega dos serviços de TI de acordo com SLA (<i>Framework</i> ITIL).</li>
+         <li>Atendimento de solicitações de serviços (usuários internos), <i>incident management</i> (<i>ticket support</i>, <i>disaster recovery</i>, <i>war room</i>) e <i>problem management</i> (<i>troubleshooting</i>, WA, <i>hotfix</i>).</li>
         <li><i>Troubleshooting</i> e administração de ambiente operativo em ambiente Linux/Unix.</li>
-        <li>Automação de processos operacionais de monitoração, definição de <i>thresholds</i> e alarmes, backup, expurgo, configuração e preparação de ambiente.</li>
-        <li>Suporte às áreas de negócio (facturamento e garantia da receita), extração e consolidação de dados, análise de métricas de performance e relatórios.</li>
-        <li>Suporte ao processo de ETL, manutenção de <i>procedures</i> Oracle PL/SQL.</li>
-        <li>Suporte <i>on-Call</i> 24x7</li>
+        <li>Automação de processos operacionais, definição e implementação de novos <i>thresholds</i> e alarmes ao <i>help desk</i>.</li>
+        <li>Garantir a disponibilidade dos arquivos para <i>backup</i> e expurgo alinhados a políticas de retenção e necessidades operacionais.</li> 
+        <li>Priorização e controle de processamentos sob demanda (batch).</li>
+        <li>Administração de ambientes Unix (HP-UX) e Linux (Rhel)</li>
+        <li>Suporte às equipes de negócio (faturamento e garantia da receita); extração e consolidação de dados de diferentes fontes de dados; Análise de métricas de negócio e criação de relatórios.</li>
+        <li>Suporte on-Call 24x7.</li>
         </ul>
         <br>
         <p><img src="/assets/certificates/label.png"> <b>BMC Control-M, Oracle/Sun Solaris, Bash, AWK, Perl, MS Office Suite, BMC Remedy, Google Charts, BSS, BSCS, Oracle 11G</b></p>
